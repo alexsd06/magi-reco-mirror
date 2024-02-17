@@ -1,0 +1,4712 @@
+[
+    {
+        "file_list": [
+            {
+                "size": 6624, 
+                "url": "sound_native/voice/vo_char_2001_00_73_hca.hca"
+            }
+        ], 
+        "md5": "7022161d5c35502551afbd30cc44dad1", 
+        "path": "sound_native/voice/vo_char_2001_00_73_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 115968, 
+                "url": "sound_native/voice/vo_char_2001_00_33_hca.hca"
+            }
+        ], 
+        "md5": "500b8017a53960731f0b3fba4e3522b8", 
+        "path": "sound_native/voice/vo_char_2001_00_33_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 26412, 
+                "url": "sound_native/voice/vo_char_2001_00_66_hca.hca"
+            }
+        ], 
+        "md5": "e6f0b3c1d0baa609ff9a675cab0a32ab", 
+        "path": "sound_native/voice/vo_char_2001_00_66_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 37020, 
+                "url": "sound_native/voice/vo_char_2001_00_07_hca.hca"
+            }
+        ], 
+        "md5": "90c8d8b59e56298b036134cd5ba35d94", 
+        "path": "sound_native/voice/vo_char_2001_00_07_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 120048, 
+                "url": "sound_native/voice/vo_char_2001_00_26_hca.hca"
+            }
+        ], 
+        "md5": "4cb7250f25a330715eb0dcc33201defe", 
+        "path": "sound_native/voice/vo_char_2001_00_26_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 106584, 
+                "url": "sound_native/voice/vo_char_2001_51_41_hca.hca"
+            }
+        ], 
+        "md5": "2af3dc08371bc123343ad0cc326ae07d", 
+        "path": "sound_native/voice/vo_char_2001_51_41_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 37224, 
+                "url": "sound_native/voice/vo_char_2001_00_14_hca.hca"
+            }
+        ], 
+        "md5": "2f1027536b60a8ea42fdeb5981d7051c", 
+        "path": "sound_native/voice/vo_char_2001_00_14_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 8868, 
+                "url": "sound_native/voice/vo_char_2001_00_59_hca.hca"
+            }
+        ], 
+        "md5": "342209911200687a9d08595f83e70861", 
+        "path": "sound_native/voice/vo_char_2001_00_59_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 19476, 
+                "url": "sound_native/voice/vo_char_2001_00_67_hca.hca"
+            }
+        ], 
+        "md5": "c497e8ec028271b3ffa9d41fd3a941ce", 
+        "path": "sound_native/voice/vo_char_2001_00_67_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 97812, 
+                "url": "sound_native/voice/vo_char_2001_00_40_hca.hca"
+            }
+        ], 
+        "md5": "70114b03c445a98d87d9929bcf4e1592", 
+        "path": "sound_native/voice/vo_char_2001_00_40_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 11724, 
+                "url": "sound_native/voice/vo_char_2001_00_54_hca.hca"
+            }
+        ], 
+        "md5": "4e5b16055aeaa0b147d5275abfa68b68", 
+        "path": "sound_native/voice/vo_char_2001_00_54_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 63948, 
+                "url": "sound_native/voice/vo_char_2001_00_19_hca.hca"
+            }
+        ], 
+        "md5": "c34090edbde7af91e0243e4c8c1f9731", 
+        "path": "sound_native/voice/vo_char_2001_00_19_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 42120, 
+                "url": "sound_native/voice/vo_char_2001_00_15_hca.hca"
+            }
+        ], 
+        "md5": "17597911ca11dd2c3a4f932454c544a5", 
+        "path": "sound_native/voice/vo_char_2001_00_15_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 101484, 
+                "url": "sound_native/voice/vo_char_2001_51_29_hca.hca"
+            }
+        ], 
+        "md5": "ec499e4ff41e1525583c263044ede412", 
+        "path": "sound_native/voice/vo_char_2001_51_29_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 45384, 
+                "url": "sound_native/voice/vo_char_2001_00_08_hca.hca"
+            }
+        ], 
+        "md5": "7fcde85afd50d0f8d948dc3cb03c8a11", 
+        "path": "sound_native/voice/vo_char_2001_00_08_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 8256, 
+                "url": "sound_native/voice/vo_char_2001_00_61_hca.hca"
+            }
+        ], 
+        "md5": "ef5e22fa81aff0afdb7cb935bfebfa97", 
+        "path": "sound_native/voice/vo_char_2001_00_61_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 28452, 
+                "url": "sound_native/voice/vo_char_2001_00_11_hca.hca"
+            }
+        ], 
+        "md5": "c6d661940dd68e12d832a84eb2b2ad89", 
+        "path": "sound_native/voice/vo_char_2001_00_11_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 85572, 
+                "url": "sound_native/voice/vo_char_2001_51_28_hca.hca"
+            }
+        ], 
+        "md5": "1dab78c7f0d5196f9d3b5f42ae19fc76", 
+        "path": "sound_native/voice/vo_char_2001_51_28_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 110052, 
+                "url": "sound_native/voice/vo_char_2001_00_32_hca.hca"
+            }
+        ], 
+        "md5": "d33d987332271890a0d594111a9d24bc", 
+        "path": "sound_native/voice/vo_char_2001_00_32_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 132900, 
+                "url": "sound_native/voice/vo_char_2001_51_25_hca.hca"
+            }
+        ], 
+        "md5": "06fbd5e05dfc10aa400617bf0abb7da2", 
+        "path": "sound_native/voice/vo_char_2001_51_25_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 82512, 
+                "url": "sound_native/voice/vo_char_2001_51_24_hca.hca"
+            }
+        ], 
+        "md5": "a34211e4e56e4a7286f11bf076d5d94c", 
+        "path": "sound_native/voice/vo_char_2001_51_24_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 135348, 
+                "url": "sound_native/voice/vo_char_2001_00_38_hca.hca"
+            }
+        ], 
+        "md5": "cdb8e6309a28c3c19e453900461990a2", 
+        "path": "sound_native/voice/vo_char_2001_00_38_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 92916, 
+                "url": "sound_native/voice/vo_char_2001_00_36_hca.hca"
+            }
+        ], 
+        "md5": "27d1457e0cdbf462abf58b5b8045ba9b", 
+        "path": "sound_native/voice/vo_char_2001_00_36_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 143100, 
+                "url": "sound_native/voice/vo_char_2001_00_37_hca.hca"
+            }
+        ], 
+        "md5": "443583a05c1faf0ed192b790ee4fbe81", 
+        "path": "sound_native/voice/vo_char_2001_00_37_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 30084, 
+                "url": "sound_native/voice/vo_char_2001_00_43_hca.hca"
+            }
+        ], 
+        "md5": "4a95cf422bacec75423ad81e7fa6069c", 
+        "path": "sound_native/voice/vo_char_2001_00_43_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 89652, 
+                "url": "sound_native/voice/vo_char_2001_51_31_hca.hca"
+            }
+        ], 
+        "md5": "dc8742d6fc3c1b9a87db2850d14cbdc9", 
+        "path": "sound_native/voice/vo_char_2001_51_31_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 27840, 
+                "url": "sound_native/voice/vo_char_2001_00_10_hca.hca"
+            }
+        ], 
+        "md5": "16eafd5bea136daa6745c512db02db3c", 
+        "path": "sound_native/voice/vo_char_2001_00_10_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 71904, 
+                "url": "sound_native/voice/vo_char_2001_51_30_hca.hca"
+            }
+        ], 
+        "md5": "4382d3653a54bbbde55b44e63e0127b2", 
+        "path": "sound_native/voice/vo_char_2001_51_30_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 9888, 
+                "url": "sound_native/voice/vo_char_2001_00_62_hca.hca"
+            }
+        ], 
+        "md5": "e6d57060bebcafe3c3a3c65552c426f5", 
+        "path": "sound_native/voice/vo_char_2001_00_62_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 78228, 
+                "url": "sound_native/voice/vo_char_2001_00_18_hca.hca"
+            }
+        ], 
+        "md5": "cb2179bd68f704df5d937b2ed59b07cb", 
+        "path": "sound_native/voice/vo_char_2001_00_18_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 42120, 
+                "url": "sound_native/voice/vo_char_2001_00_03_hca.hca"
+            }
+        ], 
+        "md5": "045e18b434de66fda195855411ff0395", 
+        "path": "sound_native/voice/vo_char_2001_00_03_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 13356, 
+                "url": "sound_native/voice/vo_char_2001_00_55_hca.hca"
+            }
+        ], 
+        "md5": "6ffc5b1f23039c60e5ddcdf1bc285c2b", 
+        "path": "sound_native/voice/vo_char_2001_00_55_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 8256, 
+                "url": "sound_native/voice/vo_char_2001_00_50_hca.hca"
+            }
+        ], 
+        "md5": "0d1765d12e036991c6baec43090f66c0", 
+        "path": "sound_native/voice/vo_char_2001_00_50_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 9072, 
+                "url": "sound_native/voice/vo_char_2001_00_56_hca.hca"
+            }
+        ], 
+        "md5": "04773eb46b56c12c437206694290389c", 
+        "path": "sound_native/voice/vo_char_2001_00_56_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 44568, 
+                "url": "sound_native/voice/vo_char_2001_00_04_hca.hca"
+            }
+        ], 
+        "md5": "83f4b97d42d8ef064b9edcd678446576", 
+        "path": "sound_native/voice/vo_char_2001_00_04_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 125148, 
+                "url": "sound_native/voice/vo_char_2001_00_25_hca.hca"
+            }
+        ], 
+        "md5": "48bf5f22255fcec585003bd9028d6292", 
+        "path": "sound_native/voice/vo_char_2001_00_25_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 10092, 
+                "url": "sound_native/voice/vo_char_2001_00_48_hca.hca"
+            }
+        ], 
+        "md5": "f31a0e8b41dcf4b97908dcca0c3e3d5f", 
+        "path": "sound_native/voice/vo_char_2001_00_48_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 9684, 
+                "url": "sound_native/voice/vo_char_2001_00_51_hca.hca"
+            }
+        ], 
+        "md5": "a433aa539a7654767cfc367aca1d73c2", 
+        "path": "sound_native/voice/vo_char_2001_00_51_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 100260, 
+                "url": "sound_native/voice/vo_char_2001_51_35_hca.hca"
+            }
+        ], 
+        "md5": "6ed3b19294a2dab17f8dff74f617f162", 
+        "path": "sound_native/voice/vo_char_2001_51_35_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 27024, 
+                "url": "sound_native/voice/vo_char_2001_00_44_hca.hca"
+            }
+        ], 
+        "md5": "716e2c42e534432d4245ef65683743e2", 
+        "path": "sound_native/voice/vo_char_2001_00_44_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 15804, 
+                "url": "sound_native/voice/vo_char_2001_00_49_hca.hca"
+            }
+        ], 
+        "md5": "05d05334ce95056f674d4dcb993e656e", 
+        "path": "sound_native/voice/vo_char_2001_00_49_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 11724, 
+                "url": "sound_native/voice/vo_char_2001_00_72_hca.hca"
+            }
+        ], 
+        "md5": "4e5b16055aeaa0b147d5275abfa68b68", 
+        "path": "sound_native/voice/vo_char_2001_00_72_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 118008, 
+                "url": "sound_native/voice/vo_char_2001_51_36_hca.hca"
+            }
+        ], 
+        "md5": "f26cb411e32d341b3845201270b95f97", 
+        "path": "sound_native/voice/vo_char_2001_51_36_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 10296, 
+                "url": "sound_native/voice/vo_char_2001_00_74_hca.hca"
+            }
+        ], 
+        "md5": "ca8d596aa468c2f5581951d329bd6ace", 
+        "path": "sound_native/voice/vo_char_2001_00_74_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 161664, 
+                "url": "sound_native/voice/vo_char_2001_00_22_hca.hca"
+            }
+        ], 
+        "md5": "9a84b54876186b84a6cd2f93f1a22b56", 
+        "path": "sound_native/voice/vo_char_2001_00_22_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 96792, 
+                "url": "sound_native/voice/vo_char_2001_00_21_hca.hca"
+            }
+        ], 
+        "md5": "c60124fe6ab3ac98e334e688c7abffd0", 
+        "path": "sound_native/voice/vo_char_2001_00_21_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 100464, 
+                "url": "sound_native/voice/vo_char_2001_51_39_hca.hca"
+            }
+        ], 
+        "md5": "fa87bd1623a604053f61332c4aaef7c3", 
+        "path": "sound_native/voice/vo_char_2001_51_39_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 90060, 
+                "url": "sound_native/voice/vo_char_2001_51_27_hca.hca"
+            }
+        ], 
+        "md5": "0031af940957e7235e0b77c1545c63e8", 
+        "path": "sound_native/voice/vo_char_2001_51_27_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 113316, 
+                "url": "sound_native/voice/vo_char_2001_51_34_hca.hca"
+            }
+        ], 
+        "md5": "bbb3e8a922d01dc7e414ee9b82a3084b", 
+        "path": "sound_native/voice/vo_char_2001_51_34_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 31920, 
+                "url": "sound_native/voice/vo_char_2001_00_46_hca.hca"
+            }
+        ], 
+        "md5": "b8a8a671ed0f3c93e6b64d34ee790543", 
+        "path": "sound_native/voice/vo_char_2001_00_46_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 102708, 
+                "url": "sound_native/voice/vo_char_2001_00_27_hca.hca"
+            }
+        ], 
+        "md5": "b887fa0ce56dfdbe93be50f12d723815", 
+        "path": "sound_native/voice/vo_char_2001_00_27_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 8052, 
+                "url": "sound_native/voice/vo_char_2001_00_60_hca.hca"
+            }
+        ], 
+        "md5": "58d924579aae81d94e6ca119b86dcf1c", 
+        "path": "sound_native/voice/vo_char_2001_00_60_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 9480, 
+                "url": "sound_native/voice/vo_char_2001_00_47_hca.hca"
+            }
+        ], 
+        "md5": "27aff773449c4c61388c2db2dba9efca", 
+        "path": "sound_native/voice/vo_char_2001_00_47_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 43344, 
+                "url": "sound_native/voice/vo_char_2001_00_13_hca.hca"
+            }
+        ], 
+        "md5": "040cc997ba8e1b4c11bdc1032c84e8d3", 
+        "path": "sound_native/voice/vo_char_2001_00_13_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 38244, 
+                "url": "sound_native/voice/vo_char_2001_00_06_hca.hca"
+            }
+        ], 
+        "md5": "5bcc2987d08a6a3e48a9f8e4e57ea138", 
+        "path": "sound_native/voice/vo_char_2001_00_06_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 10092, 
+                "url": "sound_native/voice/vo_char_2001_00_52_hca.hca"
+            }
+        ], 
+        "md5": "d9cbd82e345d615cee9fdea5eda95b86", 
+        "path": "sound_native/voice/vo_char_2001_00_52_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 197976, 
+                "url": "sound_native/voice/vo_char_2001_00_01_hca.hca"
+            }
+        ], 
+        "md5": "9d248190e64ffb903374f32fd980fda7", 
+        "path": "sound_native/voice/vo_char_2001_00_01_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 100260, 
+                "url": "sound_native/voice/vo_char_2001_51_40_hca.hca"
+            }
+        ], 
+        "md5": "d2c1054bcc058c54d644f665067189ff", 
+        "path": "sound_native/voice/vo_char_2001_51_40_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 10296, 
+                "url": "sound_native/voice/vo_char_2001_00_53_hca.hca"
+            }
+        ], 
+        "md5": "aa259c2c834f19d385074f0013ec9271", 
+        "path": "sound_native/voice/vo_char_2001_00_53_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 11316, 
+                "url": "sound_native/voice/vo_char_2001_00_68_hca.hca"
+            }
+        ], 
+        "md5": "add1a351c3690e0d554beef1ca854738", 
+        "path": "sound_native/voice/vo_char_2001_00_68_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 38652, 
+                "url": "sound_native/voice/vo_char_2001_00_05_hca.hca"
+            }
+        ], 
+        "md5": "1b53df26cfbaedb099c0f2ee9d7acac7", 
+        "path": "sound_native/voice/vo_char_2001_00_05_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 32124, 
+                "url": "sound_native/voice/vo_char_2001_00_81_hca.hca"
+            }
+        ], 
+        "md5": "793211fd66988e0f1b4f57e4c75b8cae", 
+        "path": "sound_native/voice/vo_char_2001_00_81_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 9276, 
+                "url": "sound_native/voice/vo_char_2001_00_58_hca.hca"
+            }
+        ], 
+        "md5": "a0d721aa8f5e5002fb603c6f607fbf74", 
+        "path": "sound_native/voice/vo_char_2001_00_58_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 31104, 
+                "url": "sound_native/voice/vo_char_2001_00_65_hca.hca"
+            }
+        ], 
+        "md5": "1acc335ce1740e0ce8dc40a5e320e7b1", 
+        "path": "sound_native/voice/vo_char_2001_00_65_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 21924, 
+                "url": "sound_native/voice/vo_char_2001_00_12_hca.hca"
+            }
+        ], 
+        "md5": "26f5ab768971d884948dce24eb70acce", 
+        "path": "sound_native/voice/vo_char_2001_00_12_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 129228, 
+                "url": "sound_native/voice/vo_char_2001_00_31_hca.hca"
+            }
+        ], 
+        "md5": "865e2a06448a783f492537e3d34107ee", 
+        "path": "sound_native/voice/vo_char_2001_00_31_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 33756, 
+                "url": "sound_native/voice/vo_char_2001_00_09_hca.hca"
+            }
+        ], 
+        "md5": "f068022d72b50a54e0fde2cd5ddb97af", 
+        "path": "sound_native/voice/vo_char_2001_00_09_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 27228, 
+                "url": "sound_native/voice/vo_char_2001_00_64_hca.hca"
+            }
+        ], 
+        "md5": "abd15c60e949a02bcf2f3a16bc93926a", 
+        "path": "sound_native/voice/vo_char_2001_00_64_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 115560, 
+                "url": "sound_native/voice/vo_char_2001_00_34_hca.hca"
+            }
+        ], 
+        "md5": "666104a6d2758618039ceafb7e343c81", 
+        "path": "sound_native/voice/vo_char_2001_00_34_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 82308, 
+                "url": "sound_native/voice/vo_char_2001_00_39_hca.hca"
+            }
+        ], 
+        "md5": "77b2c1882bdd6f910e1a6a34d5093a7f", 
+        "path": "sound_native/voice/vo_char_2001_00_39_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 30288, 
+                "url": "sound_native/voice/vo_char_2001_00_82_hca.hca"
+            }
+        ], 
+        "md5": "0c1d7f2f67d7e60419ab02b855025d41", 
+        "path": "sound_native/voice/vo_char_2001_00_82_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 90264, 
+                "url": "sound_native/voice/vo_char_2001_51_26_hca.hca"
+            }
+        ], 
+        "md5": "9deb43dfa81cba70c70a4df29c385546", 
+        "path": "sound_native/voice/vo_char_2001_51_26_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 112296, 
+                "url": "sound_native/voice/vo_char_2001_00_35_hca.hca"
+            }
+        ], 
+        "md5": "5dced308449aec3fffc70d6a6ca43df9", 
+        "path": "sound_native/voice/vo_char_2001_00_35_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 101688, 
+                "url": "sound_native/voice/vo_char_2001_51_37_hca.hca"
+            }
+        ], 
+        "md5": "a496f642f77e5ede3dff3129b8d2830e", 
+        "path": "sound_native/voice/vo_char_2001_51_37_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 181044, 
+                "url": "sound_native/voice/vo_char_2001_00_23_hca.hca"
+            }
+        ], 
+        "md5": "a492fb83a5c13bfe1e6da80898d3e6ea", 
+        "path": "sound_native/voice/vo_char_2001_00_23_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 48036, 
+                "url": "sound_native/voice/vo_char_2001_00_83_hca.hca"
+            }
+        ], 
+        "md5": "913d0db3f0d9e8d913577b79a153ea4a", 
+        "path": "sound_native/voice/vo_char_2001_00_83_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 106584, 
+                "url": "sound_native/voice/vo_char_2001_00_30_hca.hca"
+            }
+        ], 
+        "md5": "3d2d7075eb737f1348e1625ba1dec661", 
+        "path": "sound_native/voice/vo_char_2001_00_30_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 31716, 
+                "url": "sound_native/voice/vo_char_2001_00_63_hca.hca"
+            }
+        ], 
+        "md5": "330b1147faada760427834bc2877290b", 
+        "path": "sound_native/voice/vo_char_2001_00_63_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 15192, 
+                "url": "sound_native/voice/vo_char_2001_00_69_hca.hca"
+            }
+        ], 
+        "md5": "6d8199dda2e8c214db3e674674b62b25", 
+        "path": "sound_native/voice/vo_char_2001_00_69_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 5604, 
+                "url": "sound_native/voice/vo_char_2001_00_57_hca.hca"
+            }
+        ], 
+        "md5": "3829a69da2047b739ee3f8c3da4bc717", 
+        "path": "sound_native/voice/vo_char_2001_00_57_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 27840, 
+                "url": "sound_native/voice/vo_char_2001_00_42_hca.hca"
+            }
+        ], 
+        "md5": "d01fcd7aad7e829f8c1c724b35ed935c", 
+        "path": "sound_native/voice/vo_char_2001_00_42_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 87612, 
+                "url": "sound_native/voice/vo_char_2001_00_16_hca.hca"
+            }
+        ], 
+        "md5": "63e64e9406b2e4f10bb5bdabd46ca209", 
+        "path": "sound_native/voice/vo_char_2001_00_16_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 93936, 
+                "url": "sound_native/voice/vo_char_2001_00_17_hca.hca"
+            }
+        ], 
+        "md5": "707d2ff82bcfce53d2d95fb3af32887e", 
+        "path": "sound_native/voice/vo_char_2001_00_17_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 86388, 
+                "url": "sound_native/voice/vo_char_2001_00_02_hca.hca"
+            }
+        ], 
+        "md5": "8966c509fe44b17320dc83f5b8356c43", 
+        "path": "sound_native/voice/vo_char_2001_00_02_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 109644, 
+                "url": "sound_native/voice/vo_char_2001_51_32_hca.hca"
+            }
+        ], 
+        "md5": "42eeb73fd7bb9fc89e791b855f61a15e", 
+        "path": "sound_native/voice/vo_char_2001_51_32_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 11316, 
+                "url": "sound_native/voice/vo_char_2001_00_71_hca.hca"
+            }
+        ], 
+        "md5": "add1a351c3690e0d554beef1ca854738", 
+        "path": "sound_native/voice/vo_char_2001_00_71_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 111684, 
+                "url": "sound_native/voice/vo_char_2001_00_41_hca.hca"
+            }
+        ], 
+        "md5": "ecb2aa3df21082d9754372d1af209ac9", 
+        "path": "sound_native/voice/vo_char_2001_00_41_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 89244, 
+                "url": "sound_native/voice/vo_char_2001_00_29_hca.hca"
+            }
+        ], 
+        "md5": "dd90d50c64284986199cb1f9ef1ce1a1", 
+        "path": "sound_native/voice/vo_char_2001_00_29_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 113112, 
+                "url": "sound_native/voice/vo_char_2001_00_28_hca.hca"
+            }
+        ], 
+        "md5": "4a48faa96ba6b41ae1b19b47c17df6e9", 
+        "path": "sound_native/voice/vo_char_2001_00_28_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 21720, 
+                "url": "sound_native/voice/vo_char_2001_00_45_hca.hca"
+            }
+        ], 
+        "md5": "e91857aecb517c31d1de7b6805bf4528", 
+        "path": "sound_native/voice/vo_char_2001_00_45_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 93936, 
+                "url": "sound_native/voice/vo_char_2001_51_38_hca.hca"
+            }
+        ], 
+        "md5": "8679b552129182b97da49c237ad69d74", 
+        "path": "sound_native/voice/vo_char_2001_51_38_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 83124, 
+                "url": "sound_native/voice/vo_char_2001_51_33_hca.hca"
+            }
+        ], 
+        "md5": "dca0e5adb62500bc804792663bc7dbc5", 
+        "path": "sound_native/voice/vo_char_2001_51_33_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 86796, 
+                "url": "sound_native/voice/vo_char_2001_00_24_hca.hca"
+            }
+        ], 
+        "md5": "4f3ded24571a1fba9d26c5b9d3387f06", 
+        "path": "sound_native/voice/vo_char_2001_00_24_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 14172, 
+                "url": "sound_native/voice/vo_char_2001_00_75_hca.hca"
+            }
+        ], 
+        "md5": "de9cd3270936f16b8908cc33260b5a80", 
+        "path": "sound_native/voice/vo_char_2001_00_75_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 54972, 
+                "url": "sound_native/voice/vo_char_2001_00_20_hca.hca"
+            }
+        ], 
+        "md5": "72230f0eaeb2114a8138391f64ae3609", 
+        "path": "sound_native/voice/vo_char_2001_00_20_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 15192, 
+                "url": "sound_native/voice/vo_char_2001_00_70_hca.hca"
+            }
+        ], 
+        "md5": "6d8199dda2e8c214db3e674674b62b25", 
+        "path": "sound_native/voice/vo_char_2001_00_70_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 31308, 
+                "url": "sound_native/voice/vo_char_2001_00_84_hca.hca"
+            }
+        ], 
+        "md5": "0042a36bfa5470716e3e6ab090dd1755", 
+        "path": "sound_native/voice/vo_char_2001_00_84_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 107808, 
+                "url": "sound_native/voice/vo_char_2001_52_40_hca.hca"
+            }
+        ], 
+        "md5": "b06f89fc720d78ec120ee51a2c06af58", 
+        "path": "sound_native/voice/vo_char_2001_52_40_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 80676, 
+                "url": "sound_native/voice/vo_char_2001_52_25_hca.hca"
+            }
+        ], 
+        "md5": "078796a0d25e439dc466f469fb678437", 
+        "path": "sound_native/voice/vo_char_2001_52_25_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 93120, 
+                "url": "sound_native/voice/vo_char_2001_52_28_hca.hca"
+            }
+        ], 
+        "md5": "78df4fb1df3f5fd3b31aa08fedc60f5a", 
+        "path": "sound_native/voice/vo_char_2001_52_28_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 98016, 
+                "url": "sound_native/voice/vo_char_2001_52_32_hca.hca"
+            }
+        ], 
+        "md5": "67c1082adc7a1d4f3b7129b459753e22", 
+        "path": "sound_native/voice/vo_char_2001_52_32_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 101688, 
+                "url": "sound_native/voice/vo_char_2001_52_35_hca.hca"
+            }
+        ], 
+        "md5": "c435fc1175f208cb0f4ab62633c28471", 
+        "path": "sound_native/voice/vo_char_2001_52_35_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 87612, 
+                "url": "sound_native/voice/vo_char_2001_52_38_hca.hca"
+            }
+        ], 
+        "md5": "cb652bf9cd75d409c718bb58066910bf", 
+        "path": "sound_native/voice/vo_char_2001_52_38_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 121272, 
+                "url": "sound_native/voice/vo_char_2001_52_33_hca.hca"
+            }
+        ], 
+        "md5": "f2bd63f1d2d7654ada1e1e15148fbfe5", 
+        "path": "sound_native/voice/vo_char_2001_52_33_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 84348, 
+                "url": "sound_native/voice/vo_char_2001_52_41_hca.hca"
+            }
+        ], 
+        "md5": "f104faed4bc0fb55bc018e5744b8def7", 
+        "path": "sound_native/voice/vo_char_2001_52_41_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 91896, 
+                "url": "sound_native/voice/vo_char_2001_52_27_hca.hca"
+            }
+        ], 
+        "md5": "f37b5e85026138ca046f7b0b56fb1b18", 
+        "path": "sound_native/voice/vo_char_2001_52_27_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 92100, 
+                "url": "sound_native/voice/vo_char_2001_52_39_hca.hca"
+            }
+        ], 
+        "md5": "a9bc80e3a5987d6233c242355f5c4db9", 
+        "path": "sound_native/voice/vo_char_2001_52_39_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 120660, 
+                "url": "sound_native/voice/vo_char_2001_52_34_hca.hca"
+            }
+        ], 
+        "md5": "5149a5477511c2bf9190d59caa43a4ea", 
+        "path": "sound_native/voice/vo_char_2001_52_34_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 80880, 
+                "url": "sound_native/voice/vo_char_2001_52_37_hca.hca"
+            }
+        ], 
+        "md5": "e9535cdc0aa6a0ae6503d459e582932d", 
+        "path": "sound_native/voice/vo_char_2001_52_37_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 88836, 
+                "url": "sound_native/voice/vo_char_2001_52_26_hca.hca"
+            }
+        ], 
+        "md5": "0dc9a4973651d0daa7be121cbeb36bb7", 
+        "path": "sound_native/voice/vo_char_2001_52_26_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 88632, 
+                "url": "sound_native/voice/vo_char_2001_52_29_hca.hca"
+            }
+        ], 
+        "md5": "4f748b6efe40bb0617f6cf8c3b36ab6b", 
+        "path": "sound_native/voice/vo_char_2001_52_29_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 85980, 
+                "url": "sound_native/voice/vo_char_2001_52_30_hca.hca"
+            }
+        ], 
+        "md5": "9df9be77fb51b7a1c2fb8734f13277b7", 
+        "path": "sound_native/voice/vo_char_2001_52_30_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 90060, 
+                "url": "sound_native/voice/vo_char_2001_52_24_hca.hca"
+            }
+        ], 
+        "md5": "3e6d44599a593eb7f7371e2cc55bff30", 
+        "path": "sound_native/voice/vo_char_2001_52_24_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 98016, 
+                "url": "sound_native/voice/vo_char_2001_52_36_hca.hca"
+            }
+        ], 
+        "md5": "6aa7f98deb84c3b12c9b4306021a0b66", 
+        "path": "sound_native/voice/vo_char_2001_52_36_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 107196, 
+                "url": "sound_native/voice/vo_char_2001_52_31_hca.hca"
+            }
+        ], 
+        "md5": "45180a37b6699b3b600c67a2a0956b2c", 
+        "path": "sound_native/voice/vo_char_2001_52_31_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 13764, 
+                "url": "sound_native/voice/vo_char_2003_00_54_hca.hca"
+            }
+        ], 
+        "md5": "43ebec0d910831101d45abaad4248e76", 
+        "path": "sound_native/voice/vo_char_2003_00_54_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 126372, 
+                "url": "sound_native/voice/vo_char_2003_50_37_hca.hca"
+            }
+        ], 
+        "md5": "f76d1523258d7985936a7d0ddad9f3e7", 
+        "path": "sound_native/voice/vo_char_2003_50_37_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 10908, 
+                "url": "sound_native/voice/vo_char_2003_00_47_hca.hca"
+            }
+        ], 
+        "md5": "f7529aa0c9151a410c7ba67805615f15", 
+        "path": "sound_native/voice/vo_char_2003_00_47_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 111276, 
+                "url": "sound_native/voice/vo_char_2003_00_41_hca.hca"
+            }
+        ], 
+        "md5": "e481f00a7ec285455f72d8636fcd4920", 
+        "path": "sound_native/voice/vo_char_2003_00_41_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 116580, 
+                "url": "sound_native/voice/vo_char_2003_00_28_hca.hca"
+            }
+        ], 
+        "md5": "c3f85ffacd3d815c7fdd73663027d565", 
+        "path": "sound_native/voice/vo_char_2003_00_28_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 9276, 
+                "url": "sound_native/voice/vo_char_2003_00_60_hca.hca"
+            }
+        ], 
+        "md5": "1f7345742f7ec569b76c6b4c15bbe6ee", 
+        "path": "sound_native/voice/vo_char_2003_00_60_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 15804, 
+                "url": "sound_native/voice/vo_char_2003_00_53_hca.hca"
+            }
+        ], 
+        "md5": "127e1cd68ecfaeb154e809ddf8f61c5f", 
+        "path": "sound_native/voice/vo_char_2003_00_53_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 120864, 
+                "url": "sound_native/voice/vo_char_2003_50_38_hca.hca"
+            }
+        ], 
+        "md5": "12b163fb494c54d53b5ad2db6d1bb494", 
+        "path": "sound_native/voice/vo_char_2003_50_38_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 11112, 
+                "url": "sound_native/voice/vo_char_2003_00_68_hca.hca"
+            }
+        ], 
+        "md5": "56528a1153db3c4a793a08b3c01316d3", 
+        "path": "sound_native/voice/vo_char_2003_00_68_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 37428, 
+                "url": "sound_native/voice/vo_char_2003_00_07_hca.hca"
+            }
+        ], 
+        "md5": "da1d4087572e3bd4c3b758424a8493c7", 
+        "path": "sound_native/voice/vo_char_2003_00_07_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 56400, 
+                "url": "sound_native/voice/vo_char_2003_00_13_hca.hca"
+            }
+        ], 
+        "md5": "e373b58adecf8bc2c66e12c023991cfe", 
+        "path": "sound_native/voice/vo_char_2003_00_13_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 93528, 
+                "url": "sound_native/voice/vo_char_2003_00_02_hca.hca"
+            }
+        ], 
+        "md5": "bc0f68e0a76a838f3e0518318267f0ae", 
+        "path": "sound_native/voice/vo_char_2003_00_02_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 248364, 
+                "url": "sound_native/voice/vo_char_2003_00_01_hca.hca"
+            }
+        ], 
+        "md5": "0a79d16ef391eda26d9861a80ec56d56", 
+        "path": "sound_native/voice/vo_char_2003_00_01_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 116376, 
+                "url": "sound_native/voice/vo_char_2003_50_32_hca.hca"
+            }
+        ], 
+        "md5": "80bff648c9b72779129a515c3d56c76a", 
+        "path": "sound_native/voice/vo_char_2003_50_32_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 113724, 
+                "url": "sound_native/voice/vo_char_2003_00_29_hca.hca"
+            }
+        ], 
+        "md5": "6dd3928676138874a404e4666631380c", 
+        "path": "sound_native/voice/vo_char_2003_00_29_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 13764, 
+                "url": "sound_native/voice/vo_char_2003_00_72_hca.hca"
+            }
+        ], 
+        "md5": "43ebec0d910831101d45abaad4248e76", 
+        "path": "sound_native/voice/vo_char_2003_00_72_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 102300, 
+                "url": "sound_native/voice/vo_char_2003_50_26_hca.hca"
+            }
+        ], 
+        "md5": "298a5fc6a2c1e0fa9b7623cf9cbf1279", 
+        "path": "sound_native/voice/vo_char_2003_50_26_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 26616, 
+                "url": "sound_native/voice/vo_char_2003_00_46_hca.hca"
+            }
+        ], 
+        "md5": "bc5e54d2f2503f156f2fd73d9ed6df2c", 
+        "path": "sound_native/voice/vo_char_2003_00_46_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 109032, 
+                "url": "sound_native/voice/vo_char_2003_50_25_hca.hca"
+            }
+        ], 
+        "md5": "163ff2d0b9f53ce93758902d348b7de7", 
+        "path": "sound_native/voice/vo_char_2003_50_25_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 18456, 
+                "url": "sound_native/voice/vo_char_2003_00_75_hca.hca"
+            }
+        ], 
+        "md5": "1e9491978a6d8c66214e6f5fc89babe8", 
+        "path": "sound_native/voice/vo_char_2003_00_75_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 18252, 
+                "url": "sound_native/voice/vo_char_2003_00_42_hca.hca"
+            }
+        ], 
+        "md5": "b66916c3a0933ee175b2874c4cb90655", 
+        "path": "sound_native/voice/vo_char_2003_00_42_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 11112, 
+                "url": "sound_native/voice/vo_char_2003_00_71_hca.hca"
+            }
+        ], 
+        "md5": "56528a1153db3c4a793a08b3c01316d3", 
+        "path": "sound_native/voice/vo_char_2003_00_71_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 148404, 
+                "url": "sound_native/voice/vo_char_2003_00_25_hca.hca"
+            }
+        ], 
+        "md5": "27fa4c7117b1e118f8586545ba9ccea0", 
+        "path": "sound_native/voice/vo_char_2003_00_25_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 196548, 
+                "url": "sound_native/voice/vo_char_2003_00_23_hca.hca"
+            }
+        ], 
+        "md5": "bd315f27df403beca33f6ee11a91cab0", 
+        "path": "sound_native/voice/vo_char_2003_00_23_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 60276, 
+                "url": "sound_native/voice/vo_char_2003_00_20_hca.hca"
+            }
+        ], 
+        "md5": "56a909565c974864e3264c431c96fc8a", 
+        "path": "sound_native/voice/vo_char_2003_00_20_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 11316, 
+                "url": "sound_native/voice/vo_char_2003_00_70_hca.hca"
+            }
+        ], 
+        "md5": "269679e6e99fcaeaf68d0bdd3f24b42e", 
+        "path": "sound_native/voice/vo_char_2003_00_70_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 111888, 
+                "url": "sound_native/voice/vo_char_2003_00_24_hca.hca"
+            }
+        ], 
+        "md5": "2bb6864a5a3e33a43314f1627de20215", 
+        "path": "sound_native/voice/vo_char_2003_00_24_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 100464, 
+                "url": "sound_native/voice/vo_char_2003_50_27_hca.hca"
+            }
+        ], 
+        "md5": "6ad2fe698e194c9dba8972fde7f8525a", 
+        "path": "sound_native/voice/vo_char_2003_50_27_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 11724, 
+                "url": "sound_native/voice/vo_char_2003_00_57_hca.hca"
+            }
+        ], 
+        "md5": "ffb6f0b62e3edd97dc7609cfcbc6eaa6", 
+        "path": "sound_native/voice/vo_char_2003_00_57_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 36000, 
+                "url": "sound_native/voice/vo_char_2003_00_64_hca.hca"
+            }
+        ], 
+        "md5": "239fae585f562387a75f1684f79ed4a5", 
+        "path": "sound_native/voice/vo_char_2003_00_64_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 120252, 
+                "url": "sound_native/voice/vo_char_2003_50_40_hca.hca"
+            }
+        ], 
+        "md5": "7fa6b0f01028f3a038e5a112d493e158", 
+        "path": "sound_native/voice/vo_char_2003_50_40_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 105156, 
+                "url": "sound_native/voice/vo_char_2003_50_33_hca.hca"
+            }
+        ], 
+        "md5": "5eaf1c41d15c216b10001c2a1c3d2de4", 
+        "path": "sound_native/voice/vo_char_2003_50_33_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 10500, 
+                "url": "sound_native/voice/vo_char_2003_00_58_hca.hca"
+            }
+        ], 
+        "md5": "e194276fa415452d296d93cdde6fe0b8", 
+        "path": "sound_native/voice/vo_char_2003_00_58_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 42732, 
+                "url": "sound_native/voice/vo_char_2003_00_05_hca.hca"
+            }
+        ], 
+        "md5": "33724ba1b7fe26fa86afaf9bb59355ab", 
+        "path": "sound_native/voice/vo_char_2003_00_05_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 126576, 
+                "url": "sound_native/voice/vo_char_2003_00_18_hca.hca"
+            }
+        ], 
+        "md5": "d7c401e1129f0eaa5b1cda0fdf376415", 
+        "path": "sound_native/voice/vo_char_2003_00_18_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 30084, 
+                "url": "sound_native/voice/vo_char_2003_00_65_hca.hca"
+            }
+        ], 
+        "md5": "add98d44204f82b3ecd9b55f22dad0ac", 
+        "path": "sound_native/voice/vo_char_2003_00_65_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 100872, 
+                "url": "sound_native/voice/vo_char_2003_00_17_hca.hca"
+            }
+        ], 
+        "md5": "392eb39ea6c86a92fb0651e62480f2ca", 
+        "path": "sound_native/voice/vo_char_2003_00_17_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 11724, 
+                "url": "sound_native/voice/vo_char_2003_00_69_hca.hca"
+            }
+        ], 
+        "md5": "109b0ab1ef15734d96c7964f671e0714", 
+        "path": "sound_native/voice/vo_char_2003_00_69_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 10908, 
+                "url": "sound_native/voice/vo_char_2003_00_52_hca.hca"
+            }
+        ], 
+        "md5": "c75004e8e3034c9443ea6f8a648a0dfa", 
+        "path": "sound_native/voice/vo_char_2003_00_52_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 38652, 
+                "url": "sound_native/voice/vo_char_2003_00_06_hca.hca"
+            }
+        ], 
+        "md5": "1c090fea338b8c40438fd7bdbec8c1b2", 
+        "path": "sound_native/voice/vo_char_2003_00_06_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 138204, 
+                "url": "sound_native/voice/vo_char_2003_00_39_hca.hca"
+            }
+        ], 
+        "md5": "0557bda2c9f681002937d38624a4d540", 
+        "path": "sound_native/voice/vo_char_2003_00_39_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 31716, 
+                "url": "sound_native/voice/vo_char_2003_00_12_hca.hca"
+            }
+        ], 
+        "md5": "4e27b1bd9693fd9290899074278a4623", 
+        "path": "sound_native/voice/vo_char_2003_00_12_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 121680, 
+                "url": "sound_native/voice/vo_char_2003_00_30_hca.hca"
+            }
+        ], 
+        "md5": "b34068eee5fbc9f1bcd9e1a717333399", 
+        "path": "sound_native/voice/vo_char_2003_00_30_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 121680, 
+                "url": "sound_native/voice/vo_char_2003_00_31_hca.hca"
+            }
+        ], 
+        "md5": "a825bc10f00132ed810a353ee43d25ac", 
+        "path": "sound_native/voice/vo_char_2003_00_31_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 109644, 
+                "url": "sound_native/voice/vo_char_2003_00_36_hca.hca"
+            }
+        ], 
+        "md5": "d72f499ebc1808bad7a1272635609178", 
+        "path": "sound_native/voice/vo_char_2003_00_36_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 106788, 
+                "url": "sound_native/voice/vo_char_2003_00_35_hca.hca"
+            }
+        ], 
+        "md5": "93d059cd78ed9da3a8452ef820960e8d", 
+        "path": "sound_native/voice/vo_char_2003_00_35_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 129636, 
+                "url": "sound_native/voice/vo_char_2003_00_34_hca.hca"
+            }
+        ], 
+        "md5": "1637c1a35f5c9ef98d293ee9bc0d0743", 
+        "path": "sound_native/voice/vo_char_2003_00_34_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 9276, 
+                "url": "sound_native/voice/vo_char_2003_00_67_hca.hca"
+            }
+        ], 
+        "md5": "5bcbd10cbe57164518d201336ac320bf", 
+        "path": "sound_native/voice/vo_char_2003_00_67_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 50892, 
+                "url": "sound_native/voice/vo_char_2003_00_14_hca.hca"
+            }
+        ], 
+        "md5": "fb1590bf6ac571aff154c37f6b72a4b1", 
+        "path": "sound_native/voice/vo_char_2003_00_14_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 125760, 
+                "url": "sound_native/voice/vo_char_2003_00_21_hca.hca"
+            }
+        ], 
+        "md5": "93dfbf558b8fe7415e49a5c023ba15b7", 
+        "path": "sound_native/voice/vo_char_2003_00_21_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 92508, 
+                "url": "sound_native/voice/vo_char_2003_00_27_hca.hca"
+            }
+        ], 
+        "md5": "7b69b15987360057cce2e010755d88b1", 
+        "path": "sound_native/voice/vo_char_2003_00_27_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 10092, 
+                "url": "sound_native/voice/vo_char_2003_00_74_hca.hca"
+            }
+        ], 
+        "md5": "abaaf56cc8701076dc4a8e32ee93f1e0", 
+        "path": "sound_native/voice/vo_char_2003_00_74_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 40080, 
+                "url": "sound_native/voice/vo_char_2003_00_08_hca.hca"
+            }
+        ], 
+        "md5": "8fd5124ea0604472bd14a31797a1339c", 
+        "path": "sound_native/voice/vo_char_2003_00_08_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 126984, 
+                "url": "sound_native/voice/vo_char_2003_00_40_hca.hca"
+            }
+        ], 
+        "md5": "968450620a5bb082ea876ca28b7e4ad4", 
+        "path": "sound_native/voice/vo_char_2003_00_40_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 10092, 
+                "url": "sound_native/voice/vo_char_2003_00_61_hca.hca"
+            }
+        ], 
+        "md5": "5746e05380b1c9f5530e9e4dcec0b315", 
+        "path": "sound_native/voice/vo_char_2003_00_61_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 132492, 
+                "url": "sound_native/voice/vo_char_2003_50_24_hca.hca"
+            }
+        ], 
+        "md5": "e0f2a07e595c0ebf7ea7b1a52bf98098", 
+        "path": "sound_native/voice/vo_char_2003_50_24_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 46200, 
+                "url": "sound_native/voice/vo_char_2003_00_15_hca.hca"
+            }
+        ], 
+        "md5": "8ca7cadbe9568fd1d74f47ebd044230f", 
+        "path": "sound_native/voice/vo_char_2003_00_15_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 11316, 
+                "url": "sound_native/voice/vo_char_2003_00_55_hca.hca"
+            }
+        ], 
+        "md5": "269679e6e99fcaeaf68d0bdd3f24b42e", 
+        "path": "sound_native/voice/vo_char_2003_00_55_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 108012, 
+                "url": "sound_native/voice/vo_char_2003_50_36_hca.hca"
+            }
+        ], 
+        "md5": "5d2751ea13502ef8fb3b2ecee6cbfdda", 
+        "path": "sound_native/voice/vo_char_2003_50_36_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 116784, 
+                "url": "sound_native/voice/vo_char_2003_50_30_hca.hca"
+            }
+        ], 
+        "md5": "2da63b13296d09e695211dedd67dab10", 
+        "path": "sound_native/voice/vo_char_2003_50_30_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 35388, 
+                "url": "sound_native/voice/vo_char_2003_00_66_hca.hca"
+            }
+        ], 
+        "md5": "c29512a97884c773c6f925560c17c319", 
+        "path": "sound_native/voice/vo_char_2003_00_66_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 112908, 
+                "url": "sound_native/voice/vo_char_2003_50_31_hca.hca"
+            }
+        ], 
+        "md5": "bfb3d050f5c641de124c28f6612c849c", 
+        "path": "sound_native/voice/vo_char_2003_50_31_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 121680, 
+                "url": "sound_native/voice/vo_char_2003_50_29_hca.hca"
+            }
+        ], 
+        "md5": "65f52fa27bbdb538f1ecc0286a5dc8d4", 
+        "path": "sound_native/voice/vo_char_2003_50_29_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 7644, 
+                "url": "sound_native/voice/vo_char_2003_00_49_hca.hca"
+            }
+        ], 
+        "md5": "ef84abc9761eabb24c631082316a83e0", 
+        "path": "sound_native/voice/vo_char_2003_00_49_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 179208, 
+                "url": "sound_native/voice/vo_char_2003_00_22_hca.hca"
+            }
+        ], 
+        "md5": "4efc32d58f0db726c104dd5c7cec0c39", 
+        "path": "sound_native/voice/vo_char_2003_00_22_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 26412, 
+                "url": "sound_native/voice/vo_char_2003_00_45_hca.hca"
+            }
+        ], 
+        "md5": "9afd554a93f7a0e3c1aa95310d208416", 
+        "path": "sound_native/voice/vo_char_2003_00_45_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 20904, 
+                "url": "sound_native/voice/vo_char_2003_00_43_hca.hca"
+            }
+        ], 
+        "md5": "0064c4924267744b9f897e2b520813be", 
+        "path": "sound_native/voice/vo_char_2003_00_43_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 108624, 
+                "url": "sound_native/voice/vo_char_2003_00_26_hca.hca"
+            }
+        ], 
+        "md5": "ab3398c0c1ac1a61a0b07e9e728e60d9", 
+        "path": "sound_native/voice/vo_char_2003_00_26_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 7236, 
+                "url": "sound_native/voice/vo_char_2003_00_73_hca.hca"
+            }
+        ], 
+        "md5": "9af5dbf51bf3cae38321636f50c2c9a6", 
+        "path": "sound_native/voice/vo_char_2003_00_73_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 7848, 
+                "url": "sound_native/voice/vo_char_2003_00_48_hca.hca"
+            }
+        ], 
+        "md5": "fa2ce4507d9aff0c74e7ad1888b0fb1f", 
+        "path": "sound_native/voice/vo_char_2003_00_48_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 134736, 
+                "url": "sound_native/voice/vo_char_2003_50_28_hca.hca"
+            }
+        ], 
+        "md5": "93a5d75b53862786721db0a8be25a283", 
+        "path": "sound_native/voice/vo_char_2003_50_28_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 24372, 
+                "url": "sound_native/voice/vo_char_2003_00_44_hca.hca"
+            }
+        ], 
+        "md5": "9267a7edee910f5f79ee23b81cf79597", 
+        "path": "sound_native/voice/vo_char_2003_00_44_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 52116, 
+                "url": "sound_native/voice/vo_char_2003_00_04_hca.hca"
+            }
+        ], 
+        "md5": "3420c8fc49b1825905ea399a021b3221", 
+        "path": "sound_native/voice/vo_char_2003_00_04_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 19884, 
+                "url": "sound_native/voice/vo_char_2003_00_11_hca.hca"
+            }
+        ], 
+        "md5": "73c358a4fd30d5437c7c11410ebf4979", 
+        "path": "sound_native/voice/vo_char_2003_00_11_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 78432, 
+                "url": "sound_native/voice/vo_char_2003_50_41_hca.hca"
+            }
+        ], 
+        "md5": "3a4c315cfea52ef35dbf02d8f081ad30", 
+        "path": "sound_native/voice/vo_char_2003_50_41_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 28860, 
+                "url": "sound_native/voice/vo_char_2003_00_10_hca.hca"
+            }
+        ], 
+        "md5": "f050afe7a6f7970258b836d0110f67bf", 
+        "path": "sound_native/voice/vo_char_2003_00_10_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 33960, 
+                "url": "sound_native/voice/vo_char_2003_00_63_hca.hca"
+            }
+        ], 
+        "md5": "154090a65c56ff41c248bfe0f569471a", 
+        "path": "sound_native/voice/vo_char_2003_00_63_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 6828, 
+                "url": "sound_native/voice/vo_char_2003_00_56_hca.hca"
+            }
+        ], 
+        "md5": "24ebc17c96ccc07941cffe0f3ecb021c", 
+        "path": "sound_native/voice/vo_char_2003_00_56_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 71904, 
+                "url": "sound_native/voice/vo_char_2003_00_03_hca.hca"
+            }
+        ], 
+        "md5": "7f596999e6afb09be13ebaf31524762b", 
+        "path": "sound_native/voice/vo_char_2003_00_03_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 6012, 
+                "url": "sound_native/voice/vo_char_2003_00_50_hca.hca"
+            }
+        ], 
+        "md5": "e47b4434e23ee780e7d333a072273e50", 
+        "path": "sound_native/voice/vo_char_2003_00_50_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 132084, 
+                "url": "sound_native/voice/vo_char_2003_50_35_hca.hca"
+            }
+        ], 
+        "md5": "5872795a8cf77e2ef1203539800ae465", 
+        "path": "sound_native/voice/vo_char_2003_50_35_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 83328, 
+                "url": "sound_native/voice/vo_char_2003_50_34_hca.hca"
+            }
+        ], 
+        "md5": "ab4b21c16b4406c6885a322e06bae429", 
+        "path": "sound_native/voice/vo_char_2003_50_34_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 51096, 
+                "url": "sound_native/voice/vo_char_2003_00_19_hca.hca"
+            }
+        ], 
+        "md5": "f9d4b5416a541e111e0f5b59a1d813f6", 
+        "path": "sound_native/voice/vo_char_2003_00_19_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 13356, 
+                "url": "sound_native/voice/vo_char_2003_00_51_hca.hca"
+            }
+        ], 
+        "md5": "968007a105b920f9f616bebe738d1052", 
+        "path": "sound_native/voice/vo_char_2003_00_51_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 5808, 
+                "url": "sound_native/voice/vo_char_2003_00_59_hca.hca"
+            }
+        ], 
+        "md5": "cdb77731af3560683c1be8454f3e1183", 
+        "path": "sound_native/voice/vo_char_2003_00_59_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 111276, 
+                "url": "sound_native/voice/vo_char_2003_00_16_hca.hca"
+            }
+        ], 
+        "md5": "399c1e35abe97f121c517ca4dbb6fc5c", 
+        "path": "sound_native/voice/vo_char_2003_00_16_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 119436, 
+                "url": "sound_native/voice/vo_char_2003_50_39_hca.hca"
+            }
+        ], 
+        "md5": "39942996a45a2a846fdce76477a81dd5", 
+        "path": "sound_native/voice/vo_char_2003_50_39_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 8460, 
+                "url": "sound_native/voice/vo_char_2003_00_62_hca.hca"
+            }
+        ], 
+        "md5": "b9b0a96ccb76b65e16e597468a5ca751", 
+        "path": "sound_native/voice/vo_char_2003_00_62_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 26412, 
+                "url": "sound_native/voice/vo_char_2003_00_09_hca.hca"
+            }
+        ], 
+        "md5": "b18f10e1e1bddd1f210632fa356c5f91", 
+        "path": "sound_native/voice/vo_char_2003_00_09_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 106788, 
+                "url": "sound_native/voice/vo_char_2003_00_38_hca.hca"
+            }
+        ], 
+        "md5": "07ae3ab14e7d17c09976adad9cdc55e3", 
+        "path": "sound_native/voice/vo_char_2003_00_38_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 128820, 
+                "url": "sound_native/voice/vo_char_2003_00_37_hca.hca"
+            }
+        ], 
+        "md5": "99a3a4554a82748498f6b3b0ddcb6d75", 
+        "path": "sound_native/voice/vo_char_2003_00_37_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 114948, 
+                "url": "sound_native/voice/vo_char_2003_00_32_hca.hca"
+            }
+        ], 
+        "md5": "916c89465b5258ff9e074be36baa9f49", 
+        "path": "sound_native/voice/vo_char_2003_00_32_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 124128, 
+                "url": "sound_native/voice/vo_char_2003_00_33_hca.hca"
+            }
+        ], 
+        "md5": "919754661446167fcea36bffce9b1e04", 
+        "path": "sound_native/voice/vo_char_2003_00_33_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 109032, 
+                "url": "sound_native/voice/vo_char_2003_52_33_hca.hca"
+            }
+        ], 
+        "md5": "beafbbd68f1319035a2f712b3769c981", 
+        "path": "sound_native/voice/vo_char_2003_52_33_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 138408, 
+                "url": "sound_native/voice/vo_char_2003_52_36_hca.hca"
+            }
+        ], 
+        "md5": "bde48027efd639f0d10878375da0bfd2", 
+        "path": "sound_native/voice/vo_char_2003_52_36_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 132900, 
+                "url": "sound_native/voice/vo_char_2003_52_26_hca.hca"
+            }
+        ], 
+        "md5": "1b03d8b59cb48d92b4b1a9c967af61c8", 
+        "path": "sound_native/voice/vo_char_2003_52_26_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 161664, 
+                "url": "sound_native/voice/vo_char_2003_52_30_hca.hca"
+            }
+        ], 
+        "md5": "56437b4be1eba2df7e681e4bb3532bc2", 
+        "path": "sound_native/voice/vo_char_2003_52_30_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 124332, 
+                "url": "sound_native/voice/vo_char_2003_52_29_hca.hca"
+            }
+        ], 
+        "md5": "103f05acab239ffb991cdf998259ed18", 
+        "path": "sound_native/voice/vo_char_2003_52_29_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 194508, 
+                "url": "sound_native/voice/vo_char_2003_52_28_hca.hca"
+            }
+        ], 
+        "md5": "8a3d305dd06e4c11082355a61d68e72b", 
+        "path": "sound_native/voice/vo_char_2003_52_28_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 127596, 
+                "url": "sound_native/voice/vo_char_2003_52_40_hca.hca"
+            }
+        ], 
+        "md5": "953c31f03ec1a25f5d2c1ca0857f6c93", 
+        "path": "sound_native/voice/vo_char_2003_52_40_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 150240, 
+                "url": "sound_native/voice/vo_char_2003_52_39_hca.hca"
+            }
+        ], 
+        "md5": "be48a2af5536c1649b7e4aad5f6873c7", 
+        "path": "sound_native/voice/vo_char_2003_52_39_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 90468, 
+                "url": "sound_native/voice/vo_char_2003_52_41_hca.hca"
+            }
+        ], 
+        "md5": "d670a8ff550f9d88193108cf264ccd64", 
+        "path": "sound_native/voice/vo_char_2003_52_41_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 128616, 
+                "url": "sound_native/voice/vo_char_2003_52_34_hca.hca"
+            }
+        ], 
+        "md5": "d844976f6a65328a80f8afbbfdcbc792", 
+        "path": "sound_native/voice/vo_char_2003_52_34_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 98424, 
+                "url": "sound_native/voice/vo_char_2003_52_24_hca.hca"
+            }
+        ], 
+        "md5": "3635702eec277a01472fb26d2c6459a2", 
+        "path": "sound_native/voice/vo_char_2003_52_24_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 109848, 
+                "url": "sound_native/voice/vo_char_2003_52_27_hca.hca"
+            }
+        ], 
+        "md5": "375168abcfbb423cc974a403756e1815", 
+        "path": "sound_native/voice/vo_char_2003_52_27_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 136368, 
+                "url": "sound_native/voice/vo_char_2003_52_35_hca.hca"
+            }
+        ], 
+        "md5": "5a0d244f4a85322300b7c75a4a202968", 
+        "path": "sound_native/voice/vo_char_2003_52_35_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 141876, 
+                "url": "sound_native/voice/vo_char_2003_52_38_hca.hca"
+            }
+        ], 
+        "md5": "290fd0f6b543cdabb7cec0484a1a4d75", 
+        "path": "sound_native/voice/vo_char_2003_52_38_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 121884, 
+                "url": "sound_native/voice/vo_char_2003_52_37_hca.hca"
+            }
+        ], 
+        "md5": "b4f89c6b3a89e50b11b1f12325249856", 
+        "path": "sound_native/voice/vo_char_2003_52_37_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 111072, 
+                "url": "sound_native/voice/vo_char_2003_52_32_hca.hca"
+            }
+        ], 
+        "md5": "93601143bcfdcfb230e46c3cbd384be6", 
+        "path": "sound_native/voice/vo_char_2003_52_32_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 164316, 
+                "url": "sound_native/voice/vo_char_2003_52_31_hca.hca"
+            }
+        ], 
+        "md5": "18891099e9bf320dd38242461a7cccfd", 
+        "path": "sound_native/voice/vo_char_2003_52_31_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 78024, 
+                "url": "sound_native/voice/vo_char_2003_52_25_hca.hca"
+            }
+        ], 
+        "md5": "422619ea708980db9579f401a21a51f5", 
+        "path": "sound_native/voice/vo_char_2003_52_25_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 58236, 
+                "url": "sound_native/voice/vo_char_2005_00_81_hca.hca"
+            }
+        ], 
+        "md5": "cd29705fde299a18a986b739b8545408", 
+        "path": "sound_native/voice/vo_char_2005_00_81_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 11724, 
+                "url": "sound_native/voice/vo_char_2005_00_68_hca.hca"
+            }
+        ], 
+        "md5": "5887e3ab439aa1c301a7eb07b7a32397", 
+        "path": "sound_native/voice/vo_char_2005_00_68_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 95364, 
+                "url": "sound_native/voice/vo_char_2005_50_25_hca.hca"
+            }
+        ], 
+        "md5": "e09fd7a731b49aedefdcc9e1f42bc407", 
+        "path": "sound_native/voice/vo_char_2005_50_25_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 31716, 
+                "url": "sound_native/voice/vo_char_2005_00_09_hca.hca"
+            }
+        ], 
+        "md5": "eb107933add1b0cf13837c0af9559c63", 
+        "path": "sound_native/voice/vo_char_2005_00_09_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 200832, 
+                "url": "sound_native/voice/vo_char_2005_00_22_hca.hca"
+            }
+        ], 
+        "md5": "fcd56c61977d29248144cdc8681c76ab", 
+        "path": "sound_native/voice/vo_char_2005_00_22_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 12336, 
+                "url": "sound_native/voice/vo_char_2005_00_55_hca.hca"
+            }
+        ], 
+        "md5": "9f2c1130587012663dee4be143b3c4ae", 
+        "path": "sound_native/voice/vo_char_2005_00_55_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 111684, 
+                "url": "sound_native/voice/vo_char_2005_00_21_hca.hca"
+            }
+        ], 
+        "md5": "aacf00bb7729dab6a4320475dce38369", 
+        "path": "sound_native/voice/vo_char_2005_00_21_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 21312, 
+                "url": "sound_native/voice/vo_char_2005_00_08_hca.hca"
+            }
+        ], 
+        "md5": "1503463f0dbe6be455fdb299bb027ec3", 
+        "path": "sound_native/voice/vo_char_2005_00_08_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 7848, 
+                "url": "sound_native/voice/vo_char_2005_00_74_hca.hca"
+            }
+        ], 
+        "md5": "1250f88dc9ca3cb765941f8238ee6c9f", 
+        "path": "sound_native/voice/vo_char_2005_00_74_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 105360, 
+                "url": "sound_native/voice/vo_char_2005_00_41_hca.hca"
+            }
+        ], 
+        "md5": "a95281c26e33ebddd4719550ec917fdd", 
+        "path": "sound_native/voice/vo_char_2005_00_41_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 8460, 
+                "url": "sound_native/voice/vo_char_2005_00_62_hca.hca"
+            }
+        ], 
+        "md5": "5078c4231680e1b2227c72e3fdd56cf9", 
+        "path": "sound_native/voice/vo_char_2005_00_62_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 80064, 
+                "url": "sound_native/voice/vo_char_2005_50_30_hca.hca"
+            }
+        ], 
+        "md5": "9446022bf8088f9e5236c4d0801f40f7", 
+        "path": "sound_native/voice/vo_char_2005_50_30_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 91488, 
+                "url": "sound_native/voice/vo_char_2005_50_31_hca.hca"
+            }
+        ], 
+        "md5": "0ba4e152d55a470d76faed4116e2430a", 
+        "path": "sound_native/voice/vo_char_2005_50_31_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 7848, 
+                "url": "sound_native/voice/vo_char_2005_00_67_hca.hca"
+            }
+        ], 
+        "md5": "191cc783ae624d37bd7376dcd4c9c686", 
+        "path": "sound_native/voice/vo_char_2005_00_67_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 96588, 
+                "url": "sound_native/voice/vo_char_2005_00_16_hca.hca"
+            }
+        ], 
+        "md5": "77ab092964e8b351e2a92702bad544f6", 
+        "path": "sound_native/voice/vo_char_2005_00_16_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 44772, 
+                "url": "sound_native/voice/vo_char_2005_00_15_hca.hca"
+            }
+        ], 
+        "md5": "6dbb78726fa33cfb844a4feb95035345", 
+        "path": "sound_native/voice/vo_char_2005_00_15_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 28656, 
+                "url": "sound_native/voice/vo_char_2005_00_63_hca.hca"
+            }
+        ], 
+        "md5": "f562c1d2267d745ec31deba8c0158a7e", 
+        "path": "sound_native/voice/vo_char_2005_00_63_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 23352, 
+                "url": "sound_native/voice/vo_char_2005_00_10_hca.hca"
+            }
+        ], 
+        "md5": "809d07d06cfdee514684672251b31d87", 
+        "path": "sound_native/voice/vo_char_2005_00_10_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 82716, 
+                "url": "sound_native/voice/vo_char_2005_00_37_hca.hca"
+            }
+        ], 
+        "md5": "314c6d923e06b90cb315fed159fa888f", 
+        "path": "sound_native/voice/vo_char_2005_00_37_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 38856, 
+                "url": "sound_native/voice/vo_char_2005_00_03_hca.hca"
+            }
+        ], 
+        "md5": "7ee64ed59ed2708ab833eb4bb21130e0", 
+        "path": "sound_native/voice/vo_char_2005_00_03_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 123516, 
+                "url": "sound_native/voice/vo_char_2005_50_36_hca.hca"
+            }
+        ], 
+        "md5": "e256063fbc358babfabf166fb38f76ae", 
+        "path": "sound_native/voice/vo_char_2005_50_36_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 39468, 
+                "url": "sound_native/voice/vo_char_2005_00_04_hca.hca"
+            }
+        ], 
+        "md5": "9a97ce6f1e55ba4781b02da7f276f09d", 
+        "path": "sound_native/voice/vo_char_2005_00_04_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 5604, 
+                "url": "sound_native/voice/vo_char_2005_00_56_hca.hca"
+            }
+        ], 
+        "md5": "036f50a2b413a12bc90eb17bcd50d544", 
+        "path": "sound_native/voice/vo_char_2005_00_56_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 103524, 
+                "url": "sound_native/voice/vo_char_2005_50_39_hca.hca"
+            }
+        ], 
+        "md5": "7105c1d2c9754d47671e7e24e60623f7", 
+        "path": "sound_native/voice/vo_char_2005_50_39_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 85776, 
+                "url": "sound_native/voice/vo_char_2005_00_34_hca.hca"
+            }
+        ], 
+        "md5": "f9fdd3372b0d91de03349f4366e47d36", 
+        "path": "sound_native/voice/vo_char_2005_00_34_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 105360, 
+                "url": "sound_native/voice/vo_char_2005_00_39_hca.hca"
+            }
+        ], 
+        "md5": "2fd8fa97badbfb895f4c424aa360ae0b", 
+        "path": "sound_native/voice/vo_char_2005_00_39_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 48648, 
+                "url": "sound_native/voice/vo_char_2005_00_80_hca.hca"
+            }
+        ], 
+        "md5": "13952dec3603341724ea6f5988c6f48c", 
+        "path": "sound_native/voice/vo_char_2005_00_80_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 29268, 
+                "url": "sound_native/voice/vo_char_2005_00_84_hca.hca"
+            }
+        ], 
+        "md5": "1db3b3534b1ddaca7d5b116fd8aa5401", 
+        "path": "sound_native/voice/vo_char_2005_00_84_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 36204, 
+                "url": "sound_native/voice/vo_char_2005_00_85_hca.hca"
+            }
+        ], 
+        "md5": "63698b2b919780c91a7c34b2f7452f50", 
+        "path": "sound_native/voice/vo_char_2005_00_85_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 126372, 
+                "url": "sound_native/voice/vo_char_2005_00_33_hca.hca"
+            }
+        ], 
+        "md5": "37b924dca73374f52723b6d8852e7633", 
+        "path": "sound_native/voice/vo_char_2005_00_33_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 44976, 
+                "url": "sound_native/voice/vo_char_2005_00_05_hca.hca"
+            }
+        ], 
+        "md5": "0a99818ddbbdf5d6c002a2c6cf2bb9b7", 
+        "path": "sound_native/voice/vo_char_2005_00_05_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 125352, 
+                "url": "sound_native/voice/vo_char_2005_50_28_hca.hca"
+            }
+        ], 
+        "md5": "9bf2723fef8096284647ce58e320b0b7", 
+        "path": "sound_native/voice/vo_char_2005_50_28_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 21312, 
+                "url": "sound_native/voice/vo_char_2005_00_45_hca.hca"
+            }
+        ], 
+        "md5": "0433eb0a6f603998409d5d98c826c02a", 
+        "path": "sound_native/voice/vo_char_2005_00_45_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 138204, 
+                "url": "sound_native/voice/vo_char_2005_50_41_hca.hca"
+            }
+        ], 
+        "md5": "023862feb4761cf513a9a95f2d331fb0", 
+        "path": "sound_native/voice/vo_char_2005_50_41_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 76800, 
+                "url": "sound_native/voice/vo_char_2005_00_38_hca.hca"
+            }
+        ], 
+        "md5": "830b44f35c7072c660a3bc5cfebd8300", 
+        "path": "sound_native/voice/vo_char_2005_00_38_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 101076, 
+                "url": "sound_native/voice/vo_char_2005_50_35_hca.hca"
+            }
+        ], 
+        "md5": "cbb17ee3bba2a6881f1cfe2c0760598c", 
+        "path": "sound_native/voice/vo_char_2005_50_35_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 8460, 
+                "url": "sound_native/voice/vo_char_2005_00_52_hca.hca"
+            }
+        ], 
+        "md5": "a5be3bd865c4198104c981aef13ac813", 
+        "path": "sound_native/voice/vo_char_2005_00_52_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 110460, 
+                "url": "sound_native/voice/vo_char_2005_00_26_hca.hca"
+            }
+        ], 
+        "md5": "76baf45e39e909e2aee3b848b8b54675", 
+        "path": "sound_native/voice/vo_char_2005_00_26_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 45384, 
+                "url": "sound_native/voice/vo_char_2005_00_11_hca.hca"
+            }
+        ], 
+        "md5": "12f09c65f2215f4ec7813f95869f829d", 
+        "path": "sound_native/voice/vo_char_2005_00_11_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 41916, 
+                "url": "sound_native/voice/vo_char_2005_00_19_hca.hca"
+            }
+        ], 
+        "md5": "d6d174f93e576bd2391535f34228e7e5", 
+        "path": "sound_native/voice/vo_char_2005_00_19_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 11520, 
+                "url": "sound_native/voice/vo_char_2005_00_51_hca.hca"
+            }
+        ], 
+        "md5": "d6362db46d3cf382e8b82f6046142ae0", 
+        "path": "sound_native/voice/vo_char_2005_00_51_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 26208, 
+                "url": "sound_native/voice/vo_char_2005_00_66_hca.hca"
+            }
+        ], 
+        "md5": "48d71c009cccffb1d9830cac0783b7fd", 
+        "path": "sound_native/voice/vo_char_2005_00_66_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 98220, 
+                "url": "sound_native/voice/vo_char_2005_00_27_hca.hca"
+            }
+        ], 
+        "md5": "7d755ac9f36ac79b8b88a54596bd6e34", 
+        "path": "sound_native/voice/vo_char_2005_00_27_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 175740, 
+                "url": "sound_native/voice/vo_char_2005_00_23_hca.hca"
+            }
+        ], 
+        "md5": "7a2220463c1ad439ac43a78bd5bacb82", 
+        "path": "sound_native/voice/vo_char_2005_00_23_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 6828, 
+                "url": "sound_native/voice/vo_char_2005_00_73_hca.hca"
+            }
+        ], 
+        "md5": "2712c7c6beeaa4661586c50f9ca87fba", 
+        "path": "sound_native/voice/vo_char_2005_00_73_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 96792, 
+                "url": "sound_native/voice/vo_char_2005_00_40_hca.hca"
+            }
+        ], 
+        "md5": "523a1d015978ca20c14d4f2eaf2e03ba", 
+        "path": "sound_native/voice/vo_char_2005_00_40_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 7440, 
+                "url": "sound_native/voice/vo_char_2005_00_49_hca.hca"
+            }
+        ], 
+        "md5": "69f3bfbc03eb0280e1d5ea8ae6df655f", 
+        "path": "sound_native/voice/vo_char_2005_00_49_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 93324, 
+                "url": "sound_native/voice/vo_char_2005_50_29_hca.hca"
+            }
+        ], 
+        "md5": "865e46b2838374cb012fb656c78f7f04", 
+        "path": "sound_native/voice/vo_char_2005_50_29_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 22536, 
+                "url": "sound_native/voice/vo_char_2005_00_44_hca.hca"
+            }
+        ], 
+        "md5": "76cb5b06675efef0275e78f7c51e1426", 
+        "path": "sound_native/voice/vo_char_2005_00_44_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 104544, 
+                "url": "sound_native/voice/vo_char_2005_50_24_hca.hca"
+            }
+        ], 
+        "md5": "6307e69626c0cb906596c4ccaf978019", 
+        "path": "sound_native/voice/vo_char_2005_50_24_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 13764, 
+                "url": "sound_native/voice/vo_char_2005_00_70_hca.hca"
+            }
+        ], 
+        "md5": "b29d47d88151260b66799d992d5d5293", 
+        "path": "sound_native/voice/vo_char_2005_00_70_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 10704, 
+                "url": "sound_native/voice/vo_char_2005_00_48_hca.hca"
+            }
+        ], 
+        "md5": "b50c5757771207541a8ed58fcc265d40", 
+        "path": "sound_native/voice/vo_char_2005_00_48_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 98628, 
+                "url": "sound_native/voice/vo_char_2005_00_35_hca.hca"
+            }
+        ], 
+        "md5": "d1d6ceba0da09b77c0a8e5463f409ac6", 
+        "path": "sound_native/voice/vo_char_2005_00_35_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 12540, 
+                "url": "sound_native/voice/vo_char_2005_00_61_hca.hca"
+            }
+        ], 
+        "md5": "8d1babd199c44b8f4af3a0945bec7d28", 
+        "path": "sound_native/voice/vo_char_2005_00_61_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 100260, 
+                "url": "sound_native/voice/vo_char_2005_00_28_hca.hca"
+            }
+        ], 
+        "md5": "ed50c854ee8a4c129a2ca42c8788d729", 
+        "path": "sound_native/voice/vo_char_2005_00_28_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 103524, 
+                "url": "sound_native/voice/vo_char_2005_00_02_hca.hca"
+            }
+        ], 
+        "md5": "5d9fff968ac566fac0978ccc9d8deb14", 
+        "path": "sound_native/voice/vo_char_2005_00_02_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 20496, 
+                "url": "sound_native/voice/vo_char_2005_00_42_hca.hca"
+            }
+        ], 
+        "md5": "667ae428d147ed8953c38c72ff289683", 
+        "path": "sound_native/voice/vo_char_2005_00_42_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 101280, 
+                "url": "sound_native/voice/vo_char_2005_50_38_hca.hca"
+            }
+        ], 
+        "md5": "bf06c7a1f5d70be9483a7f387f13ed54", 
+        "path": "sound_native/voice/vo_char_2005_50_38_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 19068, 
+                "url": "sound_native/voice/vo_char_2005_00_75_hca.hca"
+            }
+        ], 
+        "md5": "d30ad36db72d9f8bd3e1964d91fa2f1e", 
+        "path": "sound_native/voice/vo_char_2005_00_75_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 94752, 
+                "url": "sound_native/voice/vo_char_2005_50_32_hca.hca"
+            }
+        ], 
+        "md5": "d13167c309c1ea00da58d8596f181a10", 
+        "path": "sound_native/voice/vo_char_2005_50_32_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 10704, 
+                "url": "sound_native/voice/vo_char_2005_00_69_hca.hca"
+            }
+        ], 
+        "md5": "4e1028236abd8a6a3632f27e458b15ea", 
+        "path": "sound_native/voice/vo_char_2005_00_69_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 99444, 
+                "url": "sound_native/voice/vo_char_2005_00_29_hca.hca"
+            }
+        ], 
+        "md5": "ba78aa6689951eb16eed6c0a73bc21af", 
+        "path": "sound_native/voice/vo_char_2005_00_29_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 208992, 
+                "url": "sound_native/voice/vo_char_2005_00_01_hca.hca"
+            }
+        ], 
+        "md5": "762a8d631a4b48acda69167178f40644", 
+        "path": "sound_native/voice/vo_char_2005_00_01_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 13764, 
+                "url": "sound_native/voice/vo_char_2005_00_54_hca.hca"
+            }
+        ], 
+        "md5": "b29d47d88151260b66799d992d5d5293", 
+        "path": "sound_native/voice/vo_char_2005_00_54_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 53136, 
+                "url": "sound_native/voice/vo_char_2005_00_14_hca.hca"
+            }
+        ], 
+        "md5": "7ba42234c5c504277616569811282ed5", 
+        "path": "sound_native/voice/vo_char_2005_00_14_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 13152, 
+                "url": "sound_native/voice/vo_char_2005_00_53_hca.hca"
+            }
+        ], 
+        "md5": "817d0a8be7320f4d020d61f57ac3d59f", 
+        "path": "sound_native/voice/vo_char_2005_00_53_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 88836, 
+                "url": "sound_native/voice/vo_char_2005_50_33_hca.hca"
+            }
+        ], 
+        "md5": "a01fe82429c1bba7646dbdf3fd3dcf0b", 
+        "path": "sound_native/voice/vo_char_2005_50_33_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 10092, 
+                "url": "sound_native/voice/vo_char_2005_00_60_hca.hca"
+            }
+        ], 
+        "md5": "1a42c77e339e8de5b1b5c6056770d1d4", 
+        "path": "sound_native/voice/vo_char_2005_00_60_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 116580, 
+                "url": "sound_native/voice/vo_char_2005_50_40_hca.hca"
+            }
+        ], 
+        "md5": "b44eb36cdacc146514e152f28cab6ace", 
+        "path": "sound_native/voice/vo_char_2005_50_40_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 92916, 
+                "url": "sound_native/voice/vo_char_2005_50_37_hca.hca"
+            }
+        ], 
+        "md5": "d4af4601504c79fe71fdbf6422b8c882", 
+        "path": "sound_native/voice/vo_char_2005_50_37_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 7236, 
+                "url": "sound_native/voice/vo_char_2005_00_57_hca.hca"
+            }
+        ], 
+        "md5": "4762d34faca18bc137942a3ac63351a5", 
+        "path": "sound_native/voice/vo_char_2005_00_57_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 44160, 
+                "url": "sound_native/voice/vo_char_2005_00_07_hca.hca"
+            }
+        ], 
+        "md5": "334bfc181db6a3783bc12d6bfab78b76", 
+        "path": "sound_native/voice/vo_char_2005_00_07_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 12744, 
+                "url": "sound_native/voice/vo_char_2005_00_59_hca.hca"
+            }
+        ], 
+        "md5": "b71f46d69f4d262c1c1a3e9e7830a4df", 
+        "path": "sound_native/voice/vo_char_2005_00_59_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 105972, 
+                "url": "sound_native/voice/vo_char_2005_00_36_hca.hca"
+            }
+        ], 
+        "md5": "b6613e65aa55f2c90e9fb9475d8dbe7e", 
+        "path": "sound_native/voice/vo_char_2005_00_36_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 99240, 
+                "url": "sound_native/voice/vo_char_2005_00_31_hca.hca"
+            }
+        ], 
+        "md5": "ac364602b1abafa3c8fc664e9ceb750d", 
+        "path": "sound_native/voice/vo_char_2005_00_31_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 126576, 
+                "url": "sound_native/voice/vo_char_2005_00_30_hca.hca"
+            }
+        ], 
+        "md5": "514dd7febf5c5ca87f561b5b864e3421", 
+        "path": "sound_native/voice/vo_char_2005_00_30_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 63132, 
+                "url": "sound_native/voice/vo_char_2005_00_82_hca.hca"
+            }
+        ], 
+        "md5": "ff329ed41f452741effcec3b872625a2", 
+        "path": "sound_native/voice/vo_char_2005_00_82_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 23556, 
+                "url": "sound_native/voice/vo_char_2005_00_83_hca.hca"
+            }
+        ], 
+        "md5": "81e53808594e3c3533221a6bd5f97d97", 
+        "path": "sound_native/voice/vo_char_2005_00_83_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 93120, 
+                "url": "sound_native/voice/vo_char_2005_00_32_hca.hca"
+            }
+        ], 
+        "md5": "cd52f8df1f0ba6956c9e67567b86ee47", 
+        "path": "sound_native/voice/vo_char_2005_00_32_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 91488, 
+                "url": "sound_native/voice/vo_char_2005_00_25_hca.hca"
+            }
+        ], 
+        "md5": "ad12f5c93741a56f8d9538cf61b46130", 
+        "path": "sound_native/voice/vo_char_2005_00_25_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 11724, 
+                "url": "sound_native/voice/vo_char_2005_00_71_hca.hca"
+            }
+        ], 
+        "md5": "5887e3ab439aa1c301a7eb07b7a32397", 
+        "path": "sound_native/voice/vo_char_2005_00_71_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 11928, 
+                "url": "sound_native/voice/vo_char_2005_00_58_hca.hca"
+            }
+        ], 
+        "md5": "fcf8e1d63c39b54a65bc23739186a1c0", 
+        "path": "sound_native/voice/vo_char_2005_00_58_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 45180, 
+                "url": "sound_native/voice/vo_char_2005_00_06_hca.hca"
+            }
+        ], 
+        "md5": "3d87711b51b224e45ee55d5ced4475d0", 
+        "path": "sound_native/voice/vo_char_2005_00_06_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 102708, 
+                "url": "sound_native/voice/vo_char_2005_50_34_hca.hca"
+            }
+        ], 
+        "md5": "06639273122ae62b70581372d8704a52", 
+        "path": "sound_native/voice/vo_char_2005_50_34_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 30900, 
+                "url": "sound_native/voice/vo_char_2005_00_12_hca.hca"
+            }
+        ], 
+        "md5": "fa1257ead4d22266d6c7edea1905e81c", 
+        "path": "sound_native/voice/vo_char_2005_00_12_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 26616, 
+                "url": "sound_native/voice/vo_char_2005_00_65_hca.hca"
+            }
+        ], 
+        "md5": "968647b2ebd0180aad4a0404369c550b", 
+        "path": "sound_native/voice/vo_char_2005_00_65_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 12132, 
+                "url": "sound_native/voice/vo_char_2005_00_50_hca.hca"
+            }
+        ], 
+        "md5": "8a071091e8cfe82501ff9bdc8e3ca42b", 
+        "path": "sound_native/voice/vo_char_2005_00_50_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 39468, 
+                "url": "sound_native/voice/vo_char_2005_00_13_hca.hca"
+            }
+        ], 
+        "md5": "dada9926903ec432156b7bea20f92264", 
+        "path": "sound_native/voice/vo_char_2005_00_13_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 96588, 
+                "url": "sound_native/voice/vo_char_2005_00_18_hca.hca"
+            }
+        ], 
+        "md5": "98cee71fafe2117f3e06be7c53d51fa4", 
+        "path": "sound_native/voice/vo_char_2005_00_18_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 26820, 
+                "url": "sound_native/voice/vo_char_2005_00_64_hca.hca"
+            }
+        ], 
+        "md5": "32d02101c5852cb615f985b1784e00f8", 
+        "path": "sound_native/voice/vo_char_2005_00_64_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 108216, 
+                "url": "sound_native/voice/vo_char_2005_00_17_hca.hca"
+            }
+        ], 
+        "md5": "30db559be1d03bfb131878dad957236b", 
+        "path": "sound_native/voice/vo_char_2005_00_17_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 16008, 
+                "url": "sound_native/voice/vo_char_2005_00_43_hca.hca"
+            }
+        ], 
+        "md5": "74d686fa8ce19a162cbb478bef63359e", 
+        "path": "sound_native/voice/vo_char_2005_00_43_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 44568, 
+                "url": "sound_native/voice/vo_char_2005_00_20_hca.hca"
+            }
+        ], 
+        "md5": "77646c639e96a47db48817c2788f46aa", 
+        "path": "sound_native/voice/vo_char_2005_00_20_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 104340, 
+                "url": "sound_native/voice/vo_char_2005_00_24_hca.hca"
+            }
+        ], 
+        "md5": "d25546878b92f7234922932d594786d0", 
+        "path": "sound_native/voice/vo_char_2005_00_24_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 13152, 
+                "url": "sound_native/voice/vo_char_2005_00_72_hca.hca"
+            }
+        ], 
+        "md5": "817d0a8be7320f4d020d61f57ac3d59f", 
+        "path": "sound_native/voice/vo_char_2005_00_72_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 78024, 
+                "url": "sound_native/voice/vo_char_2005_50_26_hca.hca"
+            }
+        ], 
+        "md5": "3474f4cb311ffd8a3ca752dd954fd046", 
+        "path": "sound_native/voice/vo_char_2005_50_26_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 22740, 
+                "url": "sound_native/voice/vo_char_2005_00_46_hca.hca"
+            }
+        ], 
+        "md5": "a4e64a1f48d667e06de6832b9bb65579", 
+        "path": "sound_native/voice/vo_char_2005_00_46_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 121476, 
+                "url": "sound_native/voice/vo_char_2005_50_27_hca.hca"
+            }
+        ], 
+        "md5": "afe629c6ed2061b83f4bda2deeecdced", 
+        "path": "sound_native/voice/vo_char_2005_50_27_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 7440, 
+                "url": "sound_native/voice/vo_char_2005_00_47_hca.hca"
+            }
+        ], 
+        "md5": "2f3ecd0dfe3123ed6ef52a4042db0c2d", 
+        "path": "sound_native/voice/vo_char_2005_00_47_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 93120, 
+                "url": "sound_native/voice/vo_char_2005_53_35_hca.hca"
+            }
+        ], 
+        "md5": "5c9318953a5c8389b5bed3a0b485918a", 
+        "path": "sound_native/voice/vo_char_2005_53_35_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 81696, 
+                "url": "sound_native/voice/vo_char_2005_53_32_hca.hca"
+            }
+        ], 
+        "md5": "6460e6e15060f27062d8c5e95d5a5426", 
+        "path": "sound_native/voice/vo_char_2005_53_32_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 112296, 
+                "url": "sound_native/voice/vo_char_2005_53_38_hca.hca"
+            }
+        ], 
+        "md5": "5d7ee19b8b8dfc27b0452efdb579949d", 
+        "path": "sound_native/voice/vo_char_2005_53_38_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 107196, 
+                "url": "sound_native/voice/vo_char_2005_53_28_hca.hca"
+            }
+        ], 
+        "md5": "61bb8f75acd73e72ff84f979f014521d", 
+        "path": "sound_native/voice/vo_char_2005_53_28_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 108420, 
+                "url": "sound_native/voice/vo_char_2005_53_25_hca.hca"
+            }
+        ], 
+        "md5": "28d8d8eaff5e05f8aa128c0d4d74da69", 
+        "path": "sound_native/voice/vo_char_2005_53_25_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 126372, 
+                "url": "sound_native/voice/vo_char_2005_53_31_hca.hca"
+            }
+        ], 
+        "md5": "1e042d36b2d4fe36369f06dc0ecc410e", 
+        "path": "sound_native/voice/vo_char_2005_53_31_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 99648, 
+                "url": "sound_native/voice/vo_char_2005_53_24_hca.hca"
+            }
+        ], 
+        "md5": "ea1c9c845ba34e0b5bcdcb3b4be6bdd1", 
+        "path": "sound_native/voice/vo_char_2005_53_24_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 107808, 
+                "url": "sound_native/voice/vo_char_2005_53_30_hca.hca"
+            }
+        ], 
+        "md5": "15c673681ae987867b23062fc65ea149", 
+        "path": "sound_native/voice/vo_char_2005_53_30_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 99648, 
+                "url": "sound_native/voice/vo_char_2005_53_36_hca.hca"
+            }
+        ], 
+        "md5": "b8a771c698d73c26af2f4a4b7badf362", 
+        "path": "sound_native/voice/vo_char_2005_53_36_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 125556, 
+                "url": "sound_native/voice/vo_char_2005_53_29_hca.hca"
+            }
+        ], 
+        "md5": "bcc54fc5c2dd31eef94af213653ecfef", 
+        "path": "sound_native/voice/vo_char_2005_53_29_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 124944, 
+                "url": "sound_native/voice/vo_char_2005_53_26_hca.hca"
+            }
+        ], 
+        "md5": "65c1858e2d56559a1684a93a83d63d10", 
+        "path": "sound_native/voice/vo_char_2005_53_26_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 106176, 
+                "url": "sound_native/voice/vo_char_2005_53_37_hca.hca"
+            }
+        ], 
+        "md5": "e5765c6a23c3829650c6fb7da67aae78", 
+        "path": "sound_native/voice/vo_char_2005_53_37_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 116172, 
+                "url": "sound_native/voice/vo_char_2005_53_41_hca.hca"
+            }
+        ], 
+        "md5": "7093492f3554999172c8469ca2365688", 
+        "path": "sound_native/voice/vo_char_2005_53_41_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 145344, 
+                "url": "sound_native/voice/vo_char_2005_53_39_hca.hca"
+            }
+        ], 
+        "md5": "120493753cff15f54418f929f2578306", 
+        "path": "sound_native/voice/vo_char_2005_53_39_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 121476, 
+                "url": "sound_native/voice/vo_char_2005_53_34_hca.hca"
+            }
+        ], 
+        "md5": "934eb9cf0d59e8ff80fedeaa4f4291ce", 
+        "path": "sound_native/voice/vo_char_2005_53_34_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 114132, 
+                "url": "sound_native/voice/vo_char_2005_53_40_hca.hca"
+            }
+        ], 
+        "md5": "42c180199410df1efae9b96f210b33b8", 
+        "path": "sound_native/voice/vo_char_2005_53_40_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 93936, 
+                "url": "sound_native/voice/vo_char_2005_53_33_hca.hca"
+            }
+        ], 
+        "md5": "ddcf10e82224a0dc65be97b0a457e760", 
+        "path": "sound_native/voice/vo_char_2005_53_33_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 103320, 
+                "url": "sound_native/voice/vo_char_2005_53_27_hca.hca"
+            }
+        ], 
+        "md5": "8f05ea887eb85a6e3ad72010608457bd", 
+        "path": "sound_native/voice/vo_char_2005_53_27_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 95772, 
+                "url": "sound_native/voice/vo_char_2005_51_28_hca.hca"
+            }
+        ], 
+        "md5": "01da80c693ca96435e3842fce2cc84bb", 
+        "path": "sound_native/voice/vo_char_2005_51_28_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 105768, 
+                "url": "sound_native/voice/vo_char_2005_51_39_hca.hca"
+            }
+        ], 
+        "md5": "d26f723a760436c8d627b94b154821fd", 
+        "path": "sound_native/voice/vo_char_2005_51_39_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 102708, 
+                "url": "sound_native/voice/vo_char_2005_51_40_hca.hca"
+            }
+        ], 
+        "md5": "0ac81573ef2c3abeff819e6771fd315f", 
+        "path": "sound_native/voice/vo_char_2005_51_40_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 92100, 
+                "url": "sound_native/voice/vo_char_2005_51_32_hca.hca"
+            }
+        ], 
+        "md5": "2c07645e922b0f1a06c5ada1db13b819", 
+        "path": "sound_native/voice/vo_char_2005_51_32_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 103116, 
+                "url": "sound_native/voice/vo_char_2005_51_25_hca.hca"
+            }
+        ], 
+        "md5": "c63d7ef7dda3b61042a919576bd65bb8", 
+        "path": "sound_native/voice/vo_char_2005_51_25_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 158808, 
+                "url": "sound_native/voice/vo_char_2005_51_38_hca.hca"
+            }
+        ], 
+        "md5": "c87c0d217406b3c5a559d891236da9e6", 
+        "path": "sound_native/voice/vo_char_2005_51_38_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 129636, 
+                "url": "sound_native/voice/vo_char_2005_51_27_hca.hca"
+            }
+        ], 
+        "md5": "ba5ae29c94196edae663c06e54cd7302", 
+        "path": "sound_native/voice/vo_char_2005_51_27_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 97812, 
+                "url": "sound_native/voice/vo_char_2005_51_26_hca.hca"
+            }
+        ], 
+        "md5": "7fb1756366cba7fc49167276ea95fad3", 
+        "path": "sound_native/voice/vo_char_2005_51_26_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 144528, 
+                "url": "sound_native/voice/vo_char_2005_51_33_hca.hca"
+            }
+        ], 
+        "md5": "8e1a1b71038ec50c89ca57473ec3afb4", 
+        "path": "sound_native/voice/vo_char_2005_51_33_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 92916, 
+                "url": "sound_native/voice/vo_char_2005_51_34_hca.hca"
+            }
+        ], 
+        "md5": "5dd16811e5bbe33a947cd0ab4ae50aec", 
+        "path": "sound_native/voice/vo_char_2005_51_34_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 98016, 
+                "url": "sound_native/voice/vo_char_2005_51_31_hca.hca"
+            }
+        ], 
+        "md5": "919c6d531c15a8ca1c07f33192dcc2f2", 
+        "path": "sound_native/voice/vo_char_2005_51_31_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 120048, 
+                "url": "sound_native/voice/vo_char_2005_51_41_hca.hca"
+            }
+        ], 
+        "md5": "21e2ad95b5deb865d8bdd4e8301d247f", 
+        "path": "sound_native/voice/vo_char_2005_51_41_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 125964, 
+                "url": "sound_native/voice/vo_char_2005_51_37_hca.hca"
+            }
+        ], 
+        "md5": "6d1d6997d943a2f8027bdcd665009ade", 
+        "path": "sound_native/voice/vo_char_2005_51_37_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 114132, 
+                "url": "sound_native/voice/vo_char_2005_51_30_hca.hca"
+            }
+        ], 
+        "md5": "791ad1c6be45b118ef6d16672d616811", 
+        "path": "sound_native/voice/vo_char_2005_51_30_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 102300, 
+                "url": "sound_native/voice/vo_char_2005_51_24_hca.hca"
+            }
+        ], 
+        "md5": "af959ca168c94d1e185e948100870b2f", 
+        "path": "sound_native/voice/vo_char_2005_51_24_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 115356, 
+                "url": "sound_native/voice/vo_char_2005_51_35_hca.hca"
+            }
+        ], 
+        "md5": "aa970ebe59b25887f3187cda9c82a9fc", 
+        "path": "sound_native/voice/vo_char_2005_51_35_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 104544, 
+                "url": "sound_native/voice/vo_char_2005_51_36_hca.hca"
+            }
+        ], 
+        "md5": "6c8ba8feb2767b0218f2bc6a653df780", 
+        "path": "sound_native/voice/vo_char_2005_51_36_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 102708, 
+                "url": "sound_native/voice/vo_char_2005_51_29_hca.hca"
+            }
+        ], 
+        "md5": "18064f2b1222d9f7590fb19402dc2f9a", 
+        "path": "sound_native/voice/vo_char_2005_51_29_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 33960, 
+                "url": "sound_native/voice/vo_char_2005_00_86_hca.hca"
+            }
+        ], 
+        "md5": "7c4ac003d70eef25d284883ef52940ba", 
+        "path": "sound_native/voice/vo_char_2005_00_86_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 17844, 
+                "url": "sound_native/voice/vo_game_0001_00_hca.hca"
+            }
+        ], 
+        "md5": "e94399c1ccc4a4be52fe16f99399ae8e", 
+        "path": "sound_native/voice/vo_game_0001_00_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 16416, 
+                "url": "sound_native/voice/vo_game_0001_01_hca.hca"
+            }
+        ], 
+        "md5": "28caaec2c2c02d9d7701735fa357dba1", 
+        "path": "sound_native/voice/vo_game_0001_01_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 17232, 
+                "url": "sound_native/voice/vo_game_0001_02_hca.hca"
+            }
+        ], 
+        "md5": "d3f6ce175cba26a009c52a0f1c6e913d", 
+        "path": "sound_native/voice/vo_game_0001_02_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 32124, 
+                "url": "sound_native/voice/vo_kyube_0001_24_hca.hca"
+            }
+        ], 
+        "md5": "de0bdc2303e658175a9254bbc704e408", 
+        "path": "sound_native/voice/vo_kyube_0001_24_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 40488, 
+                "url": "sound_native/voice/vo_kyube_0001_25_hca.hca"
+            }
+        ], 
+        "md5": "25879d1b4ac3a0578e846344b50e3ebe", 
+        "path": "sound_native/voice/vo_kyube_0001_25_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 39876, 
+                "url": "sound_native/voice/vo_kyube_0001_26_hca.hca"
+            }
+        ], 
+        "md5": "4e18313ba444410d0fbbb6edba3570d2", 
+        "path": "sound_native/voice/vo_kyube_0001_26_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 35184, 
+                "url": "sound_native/voice/vo_kyube_0001_27_hca.hca"
+            }
+        ], 
+        "md5": "9804f9d27b8ef19f7989ec04f88ea3f4", 
+        "path": "sound_native/voice/vo_kyube_0001_27_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 37632, 
+                "url": "sound_native/voice/vo_kyube_0001_28_hca.hca"
+            }
+        ], 
+        "md5": "fc69776d770def07759bda1754a472c6", 
+        "path": "sound_native/voice/vo_kyube_0001_28_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 13560, 
+                "url": "sound_native/fullvoice/section_000001/vo_full_000001-1-6_hca.hca"
+            }
+        ], 
+        "md5": "720c95622af09d10cfb811f4dd994833", 
+        "path": "sound_native/fullvoice/section_000001/vo_full_000001-1-6_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 45384, 
+                "url": "sound_native/fullvoice/section_000001/vo_full_000001-1-7_hca.hca"
+            }
+        ], 
+        "md5": "efd18f9edd69821f1bc6a08cb8b8e814", 
+        "path": "sound_native/fullvoice/section_000001/vo_full_000001-1-7_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 34572, 
+                "url": "sound_native/fullvoice/section_000001/vo_full_000001-1-12_hca.hca"
+            }
+        ], 
+        "md5": "081993a8b9a48e1d7430a80acb0c567f", 
+        "path": "sound_native/fullvoice/section_000001/vo_full_000001-1-12_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 9888, 
+                "url": "sound_native/fullvoice/section_000001/vo_full_000001-1-11_hca.hca"
+            }
+        ], 
+        "md5": "11160b5707bb5c9d9c2829d0362d7ab3", 
+        "path": "sound_native/fullvoice/section_000001/vo_full_000001-1-11_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 12948, 
+                "url": "sound_native/fullvoice/section_000001/vo_full_000001-1-15_hca.hca"
+            }
+        ], 
+        "md5": "0b079db146fb81da765c147ca80378a8", 
+        "path": "sound_native/fullvoice/section_000001/vo_full_000001-1-15_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 7644, 
+                "url": "sound_native/fullvoice/section_000001/vo_full_000001-1-8_hca.hca"
+            }
+        ], 
+        "md5": "fa895e6d0994a3afaae60f0b90afe78f", 
+        "path": "sound_native/fullvoice/section_000001/vo_full_000001-1-8_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 40284, 
+                "url": "sound_native/fullvoice/section_000001/vo_full_000001-1-14_hca.hca"
+            }
+        ], 
+        "md5": "a6f60d355d713a32ceeb37cbd5a7ef9c", 
+        "path": "sound_native/fullvoice/section_000001/vo_full_000001-1-14_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 17436, 
+                "url": "sound_native/fullvoice/section_000001/vo_full_000001-1-10_hca.hca"
+            }
+        ], 
+        "md5": "5faba2e6b04ca382fa35ed710eb84bb6", 
+        "path": "sound_native/fullvoice/section_000001/vo_full_000001-1-10_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 16824, 
+                "url": "sound_native/fullvoice/section_000001/vo_full_000001-1-9_hca.hca"
+            }
+        ], 
+        "md5": "308b7b0c90c25532011edc72a525e959", 
+        "path": "sound_native/fullvoice/section_000001/vo_full_000001-1-9_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 14988, 
+                "url": "sound_native/fullvoice/section_000001/vo_full_000001-1-13_hca.hca"
+            }
+        ], 
+        "md5": "f30f1bf3d5ab3923dd46bb387cd7b983", 
+        "path": "sound_native/fullvoice/section_000001/vo_full_000001-1-13_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 38244, 
+                "url": "sound_native/fullvoice/section_000002/vo_full_000002-1-7_hca.hca"
+            }
+        ], 
+        "md5": "d39a8ce3bc0578e950b407b0c460aeea", 
+        "path": "sound_native/fullvoice/section_000002/vo_full_000002-1-7_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 6012, 
+                "url": "sound_native/fullvoice/section_000002/vo_full_000002-1-13_hca.hca"
+            }
+        ], 
+        "md5": "d2169ac98d24f630d7616418d425de87", 
+        "path": "sound_native/fullvoice/section_000002/vo_full_000002-1-13_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 13356, 
+                "url": "sound_native/fullvoice/section_000002/vo_full_000002-1-6_hca.hca"
+            }
+        ], 
+        "md5": "5071d27d8dc8ed9a4a0cf113b6a63e20", 
+        "path": "sound_native/fullvoice/section_000002/vo_full_000002-1-6_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 27636, 
+                "url": "sound_native/fullvoice/section_000002/vo_full_000002-1-1_hca.hca"
+            }
+        ], 
+        "md5": "45598a6fc3238257038d31d1425454cc", 
+        "path": "sound_native/fullvoice/section_000002/vo_full_000002-1-1_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 41508, 
+                "url": "sound_native/fullvoice/section_000002/vo_full_000002-1-16_hca.hca"
+            }
+        ], 
+        "md5": "7332b73fc7b78d965a19d20aa4763094", 
+        "path": "sound_native/fullvoice/section_000002/vo_full_000002-1-16_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 26004, 
+                "url": "sound_native/fullvoice/section_000002/vo_full_000002-1-17_hca.hca"
+            }
+        ], 
+        "md5": "83b3464c60d8a0fced64f063418a1815", 
+        "path": "sound_native/fullvoice/section_000002/vo_full_000002-1-17_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 7440, 
+                "url": "sound_native/fullvoice/section_000002/vo_full_000002-1-18_hca.hca"
+            }
+        ], 
+        "md5": "543cef47c87e7d12a637feb1e13bc2e2", 
+        "path": "sound_native/fullvoice/section_000002/vo_full_000002-1-18_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 19680, 
+                "url": "sound_native/fullvoice/section_000002/vo_full_000002-1-2_hca.hca"
+            }
+        ], 
+        "md5": "b9b2f632f7ff24d5209899f9ff39f4f8", 
+        "path": "sound_native/fullvoice/section_000002/vo_full_000002-1-2_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 29268, 
+                "url": "sound_native/fullvoice/section_000002/vo_full_000002-1-3_hca.hca"
+            }
+        ], 
+        "md5": "76a877105f001b6206e7f5b1d24ffaf1", 
+        "path": "sound_native/fullvoice/section_000002/vo_full_000002-1-3_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 27432, 
+                "url": "sound_native/fullvoice/section_000002/vo_full_000002-1-12_hca.hca"
+            }
+        ], 
+        "md5": "7a0c6244d532cca88ced89132236e595", 
+        "path": "sound_native/fullvoice/section_000002/vo_full_000002-1-12_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 6624, 
+                "url": "sound_native/fullvoice/section_000002/vo_full_000002-1-14_hca.hca"
+            }
+        ], 
+        "md5": "79842b520c21294aadf16c855183e1f0", 
+        "path": "sound_native/fullvoice/section_000002/vo_full_000002-1-14_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 22740, 
+                "url": "sound_native/fullvoice/section_000002/vo_full_000002-1-15_hca.hca"
+            }
+        ], 
+        "md5": "b665086c703665ee1686913c4a0c9169", 
+        "path": "sound_native/fullvoice/section_000002/vo_full_000002-1-15_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 30900, 
+                "url": "sound_native/fullvoice/section_000002/vo_full_000002-1-5_hca.hca"
+            }
+        ], 
+        "md5": "67029c7b7c6378c6a3b3d1c2d46566c3", 
+        "path": "sound_native/fullvoice/section_000002/vo_full_000002-1-5_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 18456, 
+                "url": "sound_native/fullvoice/section_000002/vo_full_000002-1-8_hca.hca"
+            }
+        ], 
+        "md5": "c3975a4456bfc2253860fbb33a030f55", 
+        "path": "sound_native/fullvoice/section_000002/vo_full_000002-1-8_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 22740, 
+                "url": "sound_native/fullvoice/section_000002/vo_full_000002-1-9_hca.hca"
+            }
+        ], 
+        "md5": "4bf5e74960b2c4b75b4a18be4600a9ae", 
+        "path": "sound_native/fullvoice/section_000002/vo_full_000002-1-9_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 21516, 
+                "url": "sound_native/fullvoice/section_000002/vo_full_000002-1-4_hca.hca"
+            }
+        ], 
+        "md5": "21ffb2b7acaa5e1dee4229f6ebfa0b64", 
+        "path": "sound_native/fullvoice/section_000002/vo_full_000002-1-4_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 6624, 
+                "url": "sound_native/fullvoice/section_000002/vo_full_000002-1-11_hca.hca"
+            }
+        ], 
+        "md5": "7500b1b124698a0e244111e680ca2ec0", 
+        "path": "sound_native/fullvoice/section_000002/vo_full_000002-1-11_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 14988, 
+                "url": "sound_native/fullvoice/section_000002/vo_full_000002-1-10_hca.hca"
+            }
+        ], 
+        "md5": "7c32d40d199c262fc0822c2748e7a991", 
+        "path": "sound_native/fullvoice/section_000002/vo_full_000002-1-10_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 41916, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-4-11_hca.hca"
+            }
+        ], 
+        "md5": "3bb5c842381a795d35864763ae90ab6e", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-4-11_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 31920, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-41_hca.hca"
+            }
+        ], 
+        "md5": "a5e7a2d2ea622f5eabcf46785276fc57", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-41_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 30900, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-4-1_hca.hca"
+            }
+        ], 
+        "md5": "1a01405f3627ecafd2266fea34b426ee", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-4-1_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 29064, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-1-1_hca.hca"
+            }
+        ], 
+        "md5": "7ff864e1c3bc43580ff8010109df0e97", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-1-1_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 22332, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-4-10_hca.hca"
+            }
+        ], 
+        "md5": "ed7514702c4e20d7f9ec41814978939d", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-4-10_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 32532, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-28_hca.hca"
+            }
+        ], 
+        "md5": "a2c15241aa80b2b2004891dee7feccc7", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-28_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 15396, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-2-2_hca.hca"
+            }
+        ], 
+        "md5": "956ee64e207769ddf97aaeb8c2b9d137", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-2-2_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 26208, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-4_hca.hca"
+            }
+        ], 
+        "md5": "7d70424565aef4a2ad219c662e2bfcaf", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-4_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 13356, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-21_hca.hca"
+            }
+        ], 
+        "md5": "7bc1c018a3b5c830a885262712a15afd", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-21_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 12336, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-5_hca.hca"
+            }
+        ], 
+        "md5": "81a62771d00378a56489da8a0f5c8539", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-5_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 37020, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-14_hca.hca"
+            }
+        ], 
+        "md5": "6cf7237db185920d7fbb1e2db7991a20", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-14_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 14784, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-27_hca.hca"
+            }
+        ], 
+        "md5": "3c1093bef294b3a84d24f04be26dcc3c", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-27_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 14172, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-3-2_hca.hca"
+            }
+        ], 
+        "md5": "e931f763376b2974e11da1573ba36e22", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-3-2_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 26004, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-1-2_hca.hca"
+            }
+        ], 
+        "md5": "a2dcc656de1ca9b5d4e5b2fe595bf534", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-1-2_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 29472, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-6_hca.hca"
+            }
+        ], 
+        "md5": "aa027939ebebf210d54c331008174f73", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-6_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 47016, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-1-7_hca.hca"
+            }
+        ], 
+        "md5": "c97d4688a3655aab8a6a22ad49146b1b", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-1-7_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 32124, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-36_hca.hca"
+            }
+        ], 
+        "md5": "0c487a2f66e5ebd30bf343425dd3bc1f", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-36_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 11520, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-16_hca.hca"
+            }
+        ], 
+        "md5": "4bc33986d2746a9ec195284938c06198", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-16_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 18864, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-3_hca.hca"
+            }
+        ], 
+        "md5": "7f24163509ae59d026c8adb3709fdc9c", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-3_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 6012, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-13_hca.hca"
+            }
+        ], 
+        "md5": "26188ae8fe7ab3ecdd368ea989406b26", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-13_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 25800, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-10_hca.hca"
+            }
+        ], 
+        "md5": "9fcd2de0e2633acc0e08b8b691de2122", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-10_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 10500, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-9_hca.hca"
+            }
+        ], 
+        "md5": "11c8e111e688aee122dd4da1cd122765", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-9_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 22740, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-32_hca.hca"
+            }
+        ], 
+        "md5": "206067532eae8996df12208a47220932", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-32_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 6216, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-2-1_hca.hca"
+            }
+        ], 
+        "md5": "c1c0a2f6df026a3c6043d7a8a9452f71", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-2-1_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 20088, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-37_hca.hca"
+            }
+        ], 
+        "md5": "bf74aaa6c3d611d840cebca7b6bf8a9a", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-37_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 49464, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-30_hca.hca"
+            }
+        ], 
+        "md5": "c62593cd255b96aff70e46f57962afa6", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-30_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 8868, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-2-3_hca.hca"
+            }
+        ], 
+        "md5": "38b7c9705ba58977a49939f74a856b2f", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-2-3_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 9072, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-39_hca.hca"
+            }
+        ], 
+        "md5": "6f7e3e4d0eb3bfc58a59d349d5d8b6be", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-39_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 14784, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-33_hca.hca"
+            }
+        ], 
+        "md5": "fa471e5a9f54db370220cabeb7c0c04b", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-33_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 7440, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-2-4_hca.hca"
+            }
+        ], 
+        "md5": "735dee484daf9fffec3aca6937ec99df", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-2-4_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 23556, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-18_hca.hca"
+            }
+        ], 
+        "md5": "50a90ed1fd61437b46fa9000501b8db0", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-18_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 26004, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-34_hca.hca"
+            }
+        ], 
+        "md5": "3f29248a55e7b30be13ea60f08039def", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-34_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 26412, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-4-14_hca.hca"
+            }
+        ], 
+        "md5": "0f2316432795ed61498d510bc4af8813", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-4-14_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 17640, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-35_hca.hca"
+            }
+        ], 
+        "md5": "54e87f91129e9e4efa8f250ec2cfef47", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-35_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 27432, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-44_hca.hca"
+            }
+        ], 
+        "md5": "f3a313e4214fe25ba6b6b500201904f1", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-44_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 38040, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-31_hca.hca"
+            }
+        ], 
+        "md5": "a2bbb4a52056e4d4f91490b0003997f0", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-31_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 11112, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-25_hca.hca"
+            }
+        ], 
+        "md5": "d0d286ff969ee1e7223248b247415b9d", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-25_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 23148, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-4-7_hca.hca"
+            }
+        ], 
+        "md5": "7729c845c89ec4938bfa14c4ae0cdc72", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-4-7_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 5604, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-8_hca.hca"
+            }
+        ], 
+        "md5": "ef17c534be613454dc948cc0fabb2705", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-8_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 30492, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-1_hca.hca"
+            }
+        ], 
+        "md5": "46f91d4b52ab4ffdd030a4dccf64df88", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-1_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 33960, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-7_hca.hca"
+            }
+        ], 
+        "md5": "d3d4faf9f75e1c7d75782463df7d2247", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-7_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 18864, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-11_hca.hca"
+            }
+        ], 
+        "md5": "c105daa07510acba91c3cf6d490b72d2", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-11_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 17844, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-19_hca.hca"
+            }
+        ], 
+        "md5": "c2caf26fa68d203e7738edab9d5ecbb2", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-19_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 34776, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-38_hca.hca"
+            }
+        ], 
+        "md5": "790e5f3840ed63d2ff614fa924df1e6b", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-38_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 21108, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-2_hca.hca"
+            }
+        ], 
+        "md5": "be002ec10308839157ef24ba4d6adfbb", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-2_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 15396, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-24_hca.hca"
+            }
+        ], 
+        "md5": "91fd80c6357c1b8c4841724ba027178e", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-24_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 31920, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-1-5_hca.hca"
+            }
+        ], 
+        "md5": "d06aced0f40f941c39f1dd68b16efa16", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-1-5_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 7848, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-12_hca.hca"
+            }
+        ], 
+        "md5": "5bcaa6e9034e111dffaa93324e7fd176", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-12_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 20904, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-1-4_hca.hca"
+            }
+        ], 
+        "md5": "802b59d0c858ddd1705df6dbf60d3b2c", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-1-4_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 12744, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-1-6_hca.hca"
+            }
+        ], 
+        "md5": "4fc27023355d24e0858f4b423c80f1eb", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-1-6_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 17436, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-4-5_hca.hca"
+            }
+        ], 
+        "md5": "80c7425e11c047d306a723d3343f603c", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-4-5_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 17232, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-17_hca.hca"
+            }
+        ], 
+        "md5": "3f1bb83755e82105ec099e80b0d0a459", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-17_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 6012, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-4-9_hca.hca"
+            }
+        ], 
+        "md5": "c1e1391947be248667de7052367bcbad", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-4-9_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 15804, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-23_hca.hca"
+            }
+        ], 
+        "md5": "e57956d81fdf324cdf9f6c909e5ac1fa", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-23_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 26412, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-26_hca.hca"
+            }
+        ], 
+        "md5": "4b0a60e19fc50e24e93b23346af9b043", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-26_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 27228, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-1-3_hca.hca"
+            }
+        ], 
+        "md5": "db99203585f54ee7f7c79025febbe294", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-1-3_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 44364, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-43_hca.hca"
+            }
+        ], 
+        "md5": "11153287cf164f2fdda8602983a3226c", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-43_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 31308, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-4-16_hca.hca"
+            }
+        ], 
+        "md5": "788778fc8b523fe28c073d79380c67de", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-4-16_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 26208, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-4-8_hca.hca"
+            }
+        ], 
+        "md5": "6df3b58e996ef58dd4c55b579dc373c7", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-4-8_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 101484, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-42_hca.hca"
+            }
+        ], 
+        "md5": "6f61770e61d550e24d6048b5943266fc", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-42_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 6420, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-4-13_hca.hca"
+            }
+        ], 
+        "md5": "975ee6e87dc234be8c0b796438fc616d", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-4-13_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 97812, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-40_hca.hca"
+            }
+        ], 
+        "md5": "f306dc5162655791e651c21b40cdebd8", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-40_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 38448, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-22_hca.hca"
+            }
+        ], 
+        "md5": "6f52eb9aea0e1b40e10a848d95b5b09d", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-22_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 11520, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-4-6_hca.hca"
+            }
+        ], 
+        "md5": "d415e308c57d6abc1f49815a1fa63fed", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-4-6_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 22740, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-20_hca.hca"
+            }
+        ], 
+        "md5": "0d85549adde4350a08cacfb962c66e81", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-20_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 6420, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-4-15_hca.hca"
+            }
+        ], 
+        "md5": "cde11b878840b147292fa3ca317af607", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-4-15_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 6012, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-4-4_hca.hca"
+            }
+        ], 
+        "md5": "d9843702fa5ec066673d436f6ce8ee60", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-4-4_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 47220, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-4-2_hca.hca"
+            }
+        ], 
+        "md5": "e760804efcc5243ef14ca8340001f640", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-4-2_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 17640, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-4-3_hca.hca"
+            }
+        ], 
+        "md5": "c5fd11cb33c82525b9420065f43526f6", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-4-3_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 20904, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-4-12_hca.hca"
+            }
+        ], 
+        "md5": "82697f1b26c2fd9e8dbd002948ced8d5", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-4-12_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 46200, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-29_hca.hca"
+            }
+        ], 
+        "md5": "db889840afe9ab81f9d5717a5803572a", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-29_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 47832, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-5-15_hca.hca"
+            }
+        ], 
+        "md5": "2031906ed54383dc654cb025d242b9cf", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-5-15_hca.hca"
+    }, 
+    {
+        "file_list": [
+            {
+                "size": 16824, 
+                "url": "sound_native/fullvoice/section_000003/vo_full_000003-3-1_hca.hca"
+            }
+        ], 
+        "md5": "bf8ef0424625eeabf5fb06382308d61d", 
+        "path": "sound_native/fullvoice/section_000003/vo_full_000003-3-1_hca.hca"
+    }
+]
