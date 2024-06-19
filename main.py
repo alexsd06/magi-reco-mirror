@@ -1,21 +1,24 @@
+# https://android.magi-reco.com/magica/resource/download/asset/master/resource/image_native/mini/anime_v2/mini_100100_d_r0.png
+# https://jp.rika.ren/magica/resource/image_native/mini/anime_v2/mini_100100_d_r0.png
+# https://ex.magi.co/magica/resource/image_native/mini/anime_v2/mini_100100_d_r0.png (CLOSED)
+
 import json
-import os.path
+import os
 import shutil
 import threading
 import time
+from tqdm import tqdm
+import concurrent.futures
 
 import my_wget
 from my_wget import download_file
 
-import concurrent.futures
-from tqdm import tqdm
 
-import requests
+root_url = 'https://android.magi-reco.com' #or "https://jp.rika.ren/"
+json_url = f"{root_url}/magica/resource/download/asset/master/"
+resource_url = f"{root_url}/magica/resource/download/asset/master/resource/"
 
-# https://android.magi-reco.com/magica/resource/download/asset/master/resource/image_native/mini/anime_v2/mini_100100_d_r0.png
-# https://jp.rika.ren/magica/resource/image_native/mini/anime_v2/mini_100100_d_r0.png
-# https://ex.magi.co/magica/resource/image_native/mini/anime_v2/mini_100100_d_r0.png
-
+# List of JSON assets to download
 json_assets = [
     "asset_char_list.json",
     "asset_config.json",
@@ -30,21 +33,19 @@ json_assets = [
     "asset_voice.json"
 ]
 
+# Paths within the JSON structure to be checked for character data
 resource_character_list_json = [
     "image_native/live2d/list.json",
     "image_native/live2d_v4/list.json",
 ]
 
-root_url='https://android.magi-reco.com'
-
-json_url = f"{root_url}/magica/resource/download/asset/master/"
-resource_url = f"{root_url}/magica/resource/download/asset/master/resource/"
-
+# File to store joined JSON
 full_json_for_browse = 'asset_joined.json'
 
+# List to store URLs to be downloaded
 download_urls = []
 
-
+# Function to create a joined JSON file from individual JSON assets
 def create_joined_json():
     if not os.path.exists(full_json_for_browse):
         print('Creating joined json!')
@@ -58,7 +59,7 @@ def create_joined_json():
     else:
         print('joined.json already existing!')
 
-
+# Function to download the JSON assets if they are not already downloaded
 def download_json_assets():
     if not os.path.exists('files'):
         os.mkdir('files')
@@ -70,16 +71,7 @@ def download_json_assets():
         url = json_url + json_asset
         download_file(url, json_asset)
 
-
-def remove_files():
-    if os.path.exists('files'):
-        shutil.rmtree('files')
-
-def create_files():
-    if not os.path.exists('files'):
-        os.mkdir('files')
-
-
+# Function to traverse JSON and add URLs to download list
 def traverse_json_and_add_urls(json_data):
     item_list = []
     if type(json_data) == dict:
@@ -95,7 +87,7 @@ def traverse_json_and_add_urls(json_data):
         if type(item) == dict or type(item) == list:
             traverse_json_and_add_urls(item)
 
-
+# Function to load download URLs from the JSON assets
 def load_download_urls_from_json():
     for json_asset in json_assets:
         json_data = ""
@@ -105,106 +97,63 @@ def load_download_urls_from_json():
         traverse_json_and_add_urls(json_data)
     print('Loaded download urls!')
 
-def remove_resources():
-    if os.path.exists('resource'):
-        shutil.rmtree('resource')
-
-def create_resources():
-    if not os.path.exists('resource'):
-        os.mkdir('resource')
-
-def create_filesystem_structure(that_contains):
-    # remove_resources()
+# Function to create the filesystem structure
+def create_filesystem_structure():
     create_resources()
     os.chdir('resource')
     for download_url in download_urls:
-        valid=False
-        for li in that_contains:
-            valid_list=True
-            for item in li:
-                if item not in download_url:
-                    valid_list=False
-            if valid_list==True:
-                valid=True
-                break
-        if valid==False:
-            continue
-        #print(download_urls)
         folders = os.path.split(download_url)[0]
         if not os.path.exists(folders):
             os.makedirs(folders)
     print("Created filesystem structure!")
 
+# Function to update the progress bar during downloads
 def update_progress_bar(progress):
     while True:
-        progress.update(my_wget.result-my_wget.lastResult)
-        my_wget.lastResult=my_wget.result
+        progress.update(my_wget.result - my_wget.lastResult)
+        my_wget.lastResult = my_wget.result
         time.sleep(0.5)
 
-def download_from_urls(that_contains):
-    valid_urls=[]
-    for download_url in download_urls:
-        valid = False
-        for li in that_contains:
-            valid_list = True
-            for item in li:
-                if item not in download_url:
-                    valid_list = False
-            if valid_list == True:
-                valid = True
-                break
-        if valid == False:
-            continue
+# Function to download files from URLs
+def download_from_urls():
+    progress = tqdm(total=len(download_urls), unit='B', unit_scale=False, desc='Downloading', leave=False)
+    max_workers = 10
 
-        if download_url not in valid_urls:
-            valid_urls.append(download_url)
-
-    progress = tqdm(total=len(valid_urls), unit='B', unit_scale=False, desc='Downloading', leave=False)
-    max_workers=10
-
-    my_wget.result=0
-    x=threading.Thread(target=lambda: update_progress_bar(progress))
+    my_wget.result = 0
+    x = threading.Thread(target=lambda: update_progress_bar(progress))
     x.start()
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
-        futures = [executor.submit(download_file, resource_url+valid_url, valid_url, False) for valid_url in valid_urls]
+        futures = [executor.submit(download_file, resource_url + valid_url, valid_url, False) for valid_url in download_urls]
 
-only_that_contains={
-    'image_native': {
-        'mini': {
-            'image': ['2001', '2002', '2003', '2004', '2005', '2006', '2007']
-        }
-    }
-}
+# Helper function to remove files directory
+def remove_files():
+    if os.path.exists('files'):
+        shutil.rmtree('files')
 
-restriction_list=[]
+# Helper function to create files directory
+def create_files():
+    if not os.path.exists('files'):
+        os.mkdir('files')
 
-def restriction_dict_to_list(data, father):
-    if type(data)==dict:
-        for key in data.keys():
-            restriction_dict_to_list(data[key], father+'~'+key)
-    elif type(data)==list:
-        for item in data:
-            string=father+'~'+item
-            split=string.split('~')
-            split=split[1:]
-            restriction_list.append(split)
-    else:
-        string=father+'~'+data
-        split=string.split('~')
-        split=split[1:]
-        restriction_list.append(split)
+# Helper function to remove resources directory
+def remove_resources():
+    if os.path.exists('resource'):
+        shutil.rmtree('resource')
 
+# Helper function to create resources directory
+def create_resources():
+    if not os.path.exists('resource'):
+        os.mkdir('resource')
+
+# Main execution
 if __name__ == "__main__":
-    # remove_files()
     create_files()
     download_json_assets()
     create_joined_json()
     load_download_urls_from_json()
 
-    restriction_dict_to_list(only_that_contains, "")
-    print(restriction_list)
     print(len(download_urls))
 
-    create_filesystem_structure(restriction_list)
-    download_from_urls(restriction_list)
+    create_filesystem_structure()
+    download_from_urls()
